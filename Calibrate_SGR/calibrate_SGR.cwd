@@ -1,0 +1,16 @@
+executable = ./calibrate_SGR.sh
+universe = vanilla
+getenv=True
+
+# standard error
+error = ./$(Cluster).$(Process).err
+# condor log file
+log = ./$(Cluster).$(Process).log
+# output
+output = ./$(Cluster).$(Process).out
+
+#Requirements for the jobs
+#Only work on machines that aren't being used
+
+queue 1
+

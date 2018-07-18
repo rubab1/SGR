@@ -1,0 +1,3582 @@
+
+                              < M A T L A B >
+                  Copyright 1984-2007 The MathWorks, Inc.
+                         Version 7.5.0.338 (R2007b)
+                               August 9, 2007
+
+ 
+  To get started, type one of these: helpwin, helpdesk, or demo.
+  For product information, visit www.mathworks.com.
+ 
+>> tconvert NOV 11 2005 16:48:02
+tconvert DEC 01 2005 09:59:25
+tconvert DEC 03 2005 09:03:46
+tconvert DEC 03 2005 11:43:23
+tconvert DEC 03 2005 11:45:20
+tconvert DEC 04 2005 12:53:44
+tconvert DEC 04 2005 16:28:48
+tconvert DEC 06 2005 21:18:17
+tconvert JAN 26 2006 20:16:58
+tconvert JAN 29 2006 02:54:14
+tconvert FEB 18 2006 04:40:00
+tconvert APR 03 2006 04:58:16
+tconvert APR 04 2006 14:23:01
+tconvert APR 07 2006 20:57:58
+tconvert APR 09 2006 21:13:07
+tconvert APR 22 2006 01:46:29
+tconvert JUN 19 2006 23:56:10
+tconvert JUL 18 2006 03:13:56
+tconvert JUL 18 2006 03:15:46
+tconvert JUL 21 2006 17:11:02
+tconvert JUL 26 2006 03:50:21
+tconvert JUL 28 2006 08:21:42
+tconvert JUL 30 2006 23:39:13
+tconvert JUL 31 2006 07:34:29
+tconvert JUL 31 2006 21:51:24
+tconvert AUG 01 2006 22:28:42
+tconvert AUG 03 2006 03:28:02
+tconvert AUG 03 2006 11:13:51
+tconvert AUG 03 2006 11:14:33
+tconvert AUG 04 2006 03:28:02
+tconvert AUG 06 2006 05:50:37
+tconvert AUG 06 2006 14:23:44
+tconvert AUG 07 2006 01:03:26
+tconvert AUG 07 2006 01:38:01
+tconvert AUG 07 2006 09:43:02
+tconvert AUG 07 2006 18:24:24
+tconvert AUG 07 2006 23:08:25
+tconvert AUG 08 2006 04:32:57
+tconvert AUG 10 2006 05:40:02
+tconvert AUG 10 2006 07:16:02
+tconvert AUG 10 2006 13:42:39
+tconvert AUG 10 2006 15:20:40
+tconvert AUG 11 2006 15:25:03
+tconvert AUG 12 2006 04:08:44
+tconvert AUG 12 2006 05:42:57
+tconvert AUG 12 2006 21:51:12
+tconvert AUG 13 2006 23:15:11
+tconvert AUG 14 2006 01:08:42
+tconvert AUG 14 2006 10:48:11
+tconvert AUG 14 2006 13:43:04
+tconvert AUG 14 2006 14:06:53
+tconvert AUG 16 2006 10:38:56
+tconvert AUG 16 2006 15:26:48
+tconvert AUG 16 2006 15:30:00
+tconvert AUG 16 2006 15:45:08
+tconvert AUG 16 2006 17:23:43
+tconvert AUG 17 2006 12:35:36
+tconvert AUG 19 2006 05:57:48
+tconvert AUG 19 2006 14:44:29
+tconvert AUG 20 2006 00:25:52
+tconvert AUG 20 2006 06:40:32
+tconvert AUG 21 2006 03:14:42
+tconvert AUG 21 2006 04:49:06
+tconvert AUG 21 2006 06:31:56
+tconvert AUG 21 2006 12:56:08
+tconvert AUG 21 2006 14:24:47
+tconvert AUG 21 2006 16:17:27
+tconvert AUG 21 2006 17:45:15
+tconvert AUG 22 2006 18:05:31
+tconvert AUG 23 2006 15:03:16
+tconvert AUG 24 2006 14:55:26
+tconvert AUG 24 2006 16:41:54
+tconvert AUG 25 2006 02:44:54
+tconvert AUG 25 2006 21:03:31
+tconvert AUG 26 2006 02:13:37
+tconvert AUG 26 2006 03:23:35
+tconvert AUG 26 2006 04:13:22
+tconvert AUG 26 2006 04:25:25
+tconvert AUG 26 2006 08:51:14
+tconvert AUG 26 2006 12:32:55
+tconvert AUG 26 2006 18:48:47
+tconvert AUG 26 2006 22:07:52
+tconvert AUG 27 2006 03:14:45
+tconvert AUG 27 2006 04:20:10
+tconvert AUG 27 2006 08:49:52
+tconvert AUG 27 2006 12:25:26
+tconvert AUG 27 2006 12:41:34
+tconvert AUG 28 2006 13:38:31
+tconvert AUG 29 2006 21:57:47
+tconvert AUG 29 2006 22:10:28
+tconvert AUG 29 2006 22:48:01
+tconvert AUG 30 2006 03:16:47
+tconvert AUG 30 2006 14:58:39
+tconvert AUG 30 2006 15:11:34
+tconvert SEP 02 2006 23:40:27
+tconvert SEP 11 2006 08:56:44
+tconvert SEP 16 2006 23:42:57
+tconvert SEP 17 2006 17:41:23
+tconvert SEP 18 2006 20:21:44
+tconvert SEP 19 2006 20:27:03
+tconvert SEP 19 2006 20:33:22
+tconvert SEP 19 2006 20:42:28
+tconvert SEP 20 2006 13:53:41
+tconvert SEP 22 2006 02:10:54
+tconvert SEP 22 2006 03:38:09
+tconvert SEP 22 2006 05:15:56
+tconvert SEP 22 2006 08:02:19
+tconvert SEP 22 2006 12:47:25
+tconvert SEP 22 2006 14:33:52
+tconvert SEP 22 2006 16:13:47
+tconvert SEP 22 2006 19:27:34
+tconvert SEP 22 2006 22:18:02
+tconvert SEP 23 2006 02:06:17
+tconvert SEP 23 2006 02:07:46
+tconvert SEP 24 2006 00:03:57
+tconvert SEP 24 2006 02:16:13
+tconvert SEP 24 2006 05:18:21
+tconvert SEP 24 2006 18:18:16
+tconvert SEP 24 2006 23:02:06
+tconvert SEP 25 2006 00:27:51
+tconvert SEP 25 2006 18:51:44
+tconvert SEP 26 2006 00:44:50
+tconvert SEP 26 2006 16:39:29
+tconvert SEP 27 2006 07:19:31
+tconvert SEP 27 2006 08:58:43
+tconvert SEP 27 2006 09:00:56
+tconvert SEP 27 2006 16:39:30
+tconvert SEP 28 2006 21:51:16
+tconvert SEP 28 2006 23:16:25
+tconvert SEP 29 2006 07:14:31
+tconvert SEP 30 2006 06:03:33
+tconvert SEP 30 2006 15:31:38
+tconvert OCT 02 2006 03:10:05
+tconvert OCT 04 2006 06:01:08
+tconvert OCT 06 2006 01:21:55
+tconvert OCT 08 2006 08:23:26
+tconvert OCT 10 2006 18:19:01
+tconvert OCT 12 2006 18:10:19
+tconvert OCT 18 2006 13:59:45
+tconvert OCT 18 2006 14:02:00
+tconvert OCT 19 2006 04:41:45
+tconvert OCT 19 2006 12:36:45
+tconvert OCT 22 2006 01:53:03
+tconvert OCT 25 2006 22:52:22
+tconvert OCT 27 2006 15:20:53
+tconvert OCT 29 2006 10:27:49
+tconvert OCT 30 2006 20:32:47
+tconvert NOV 10 2006 00:25:21
+tconvert NOV 20 2006 00:25:21
+tconvert DEC 08 2006 13:00:33
+tconvert JAN 21 2007 06:06:16
+tconvert JAN 26 2007 08:14:17
+tconvert JAN 29 2007 08:51:27
+tconvert FEB 01 2007 07:08:37
+tconvert FEB 07 2007 04:15:31
+tconvert FEB 15 2007 22:54:24
+tconvert FEB 16 2007 13:46:02
+tconvert FEB 19 2007 20:22:04
+tconvert FEB 22 2007 18:59:28
+tconvert FEB 22 2007 19:01:36
+tconvert FEB 22 2007 19:02:06
+tconvert FEB 22 2007 22:43:14
+tconvert FEB 23 2007 07:56:16
+tconvert FEB 23 2007 07:57:18
+tconvert FEB 23 2007 08:03:54
+tconvert FEB 23 2007 11:09:48
+tconvert FEB 23 2007 12:16:13
+tconvert FEB 23 2007 13:46:36
+tconvert FEB 24 2007 16:05:31
+tconvert FEB 24 2007 18:49:13
+tconvert FEB 25 2007 01:55:01
+tconvert FEB 25 2007 12:57:44
+tconvert FEB 26 2007 00:49:19
+tconvert FEB 26 2007 05:08:16
+tconvert FEB 26 2007 05:09:19
+tconvert FEB 27 2007 10:08:23
+tconvert FEB 27 2007 13:10:23
+tconvert FEB 27 2007 13:17:04
+tconvert FEB 27 2007 19:28:16
+tconvert FEB 27 2007 19:28:58
+tconvert MAR 01 2007 11:56:07
+tconvert MAR 02 2007 02:14:20
+tconvert MAR 04 2007 12:11:27
+tconvert MAR 05 2007 13:38:49
+tconvert MAR 06 2007 07:19:59
+tconvert MAR 07 2007 15:40:14
+tconvert MAR 07 2007 15:43:06
+tconvert MAR 11 2007 01:31:54
+tconvert MAR 11 2007 03:33:48
+tconvert MAR 11 2007 09:49:01
+tconvert MAR 16 2007 22:49:50
+tconvert MAR 16 2007 22:50:22
+tconvert MAR 17 2007 23:30:23
+tconvert MAR 18 2007 02:28:14
+tconvert MAR 18 2007 23:09:38
+tconvert MAR 26 2007 00:24:07
+tconvert MAR 26 2007 08:04:13
+tconvert MAR 30 2007 16:14:38
+tconvert APR 01 2007 03:53:09
+tconvert APR 02 2007 14:54:11
+tconvert APR 03 2007 10:07:59
+tconvert APR 03 2007 11:37:10
+tconvert APR 29 2007 17:33:04
+tconvert MAY 11 2007 10:53:04
+For event at Nov 11 2005 16:48:02 UTC
+
+GPS  time 815762895
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 66 815751075 815766687 15612
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Dec 01 2005 09:59:25 UTC
+
+GPS  time 817466378
+{{{
+H1 is in Science Mode: H1 190 817454854 817482536 27682
+H2 is in Science Mode: H2 132 817460988 817488889 27901
+L1 is in Science Mode: L1 160 817463345 817473120 9775
+H1L1 coincident duration is 9775
+H2L1 coincident duration is 9775
+H1H2 coincident duration is 21548
+Triple coincident duration is 9775
+}}}
+-----
+-----
+For event at Dec 03 2005 09:03:46 UTC
+
+GPS  time 817635839
+{{{
+H1 is in Science Mode: H1 216 817633929 817662197 28268
+H2 is in Science Mode: H2 138 817630708 817662195 31487
+L1 is in Science Mode: L1 174 817635728 817638222 2494
+H1L1 coincident duration is 2494
+H2L1 coincident duration is 2494
+H1H2 coincident duration is 28266
+Triple coincident duration is 2494
+}}}
+-----
+-----
+For event at Dec 03 2005 11:43:23 UTC
+
+GPS  time 817645416
+{{{
+H1 is in Science Mode: H1 216 817633929 817662197 28268
+H2 is in Science Mode: H2 138 817630708 817662195 31487
+L1 is in Science Mode: L1 175 817638857 817661819 22962
+H1L1 coincident duration is 22962
+H2L1 coincident duration is 22962
+H1H2 coincident duration is 28266
+Triple coincident duration is 22962
+}}}
+-----
+-----
+For event at Dec 03 2005 11:45:20 UTC
+
+GPS  time 817645533
+{{{
+H1 is in Science Mode: H1 216 817633929 817662197 28268
+H2 is in Science Mode: H2 138 817630708 817662195 31487
+L1 is in Science Mode: L1 175 817638857 817661819 22962
+H1L1 coincident duration is 22962
+H2L1 coincident duration is 22962
+H1H2 coincident duration is 28266
+Triple coincident duration is 22962
+}}}
+-----
+-----
+For event at Dec 04 2005 12:53:44 UTC
+
+GPS  time 817736037
+{{{
+H1 is in Science Mode: H1 223 817730835 817753252 22417
+H2 is in Science Mode: H2 147 817723412 817754574 31162
+L1 is in Science Mode: L1 179 817720683 817748101 27418
+H1L1 coincident duration is 17266
+H2L1 coincident duration is 24689
+H1H2 coincident duration is 22417
+Triple coincident duration is 17266
+}}}
+-----
+-----
+For event at Dec 04 2005 16:28:48 UTC
+
+GPS  time 817748941
+{{{
+H1 is in Science Mode: H1 223 817730835 817753252 22417
+H2 is in Science Mode: H2 147 817723412 817754574 31162
+L1 is not in Science Mode
+H1H2 coincident duration is 22417
+}}}
+-----
+-----
+For event at Dec 06 2005 21:18:17 UTC
+
+GPS  time 817939110
+{{{
+H1 is in Science Mode: H1 238 817938430 817940319 1889
+H2 is in Science Mode: H2 153 817938327 817943836 5509
+L1 is not in Science Mode
+H1H2 coincident duration is 1889
+}}}
+-----
+-----
+For event at Jan 26 2006 20:16:58 UTC
+
+GPS  time 822341832
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Jan 29 2006 02:54:14 UTC
+
+GPS  time 822538468
+{{{
+H1 is in Science Mode: H1 835 822537879 822539294 1415
+H2 is in Science Mode: H2 384 822536238 822554232 17994
+L1 is in Science Mode: L1 736 822534148 822545009 10861
+H1L1 coincident duration is 1415
+H2L1 coincident duration is 8771
+H1H2 coincident duration is 1415
+Triple coincident duration is 1415
+}}}
+-----
+-----
+For event at Feb 18 2006 04:40:00 UTC
+
+GPS  time 824272814
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is in Science Mode: L1 951 824267216 824284318 17102
+}}}
+-----
+-----
+For event at Apr 03 2006 04:58:16 UTC
+
+GPS  time 828075510
+{{{
+H1 is in Science Mode: H1 1212 828042211 828112398 70187
+H2 is in Science Mode: H2 746 828051701 828112525 60824
+L1 is in Science Mode: L1 1539 828067557 828082162 14605
+H1L1 coincident duration is 14605
+H2L1 coincident duration is 14605
+H1H2 coincident duration is 60697
+Triple coincident duration is 14605
+}}}
+-----
+-----
+For event at Apr 04 2006 14:23:01 UTC
+
+GPS  time 828195795
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Apr 07 2006 20:57:58 UTC
+
+GPS  time 828478692
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 799 828477516 828486854 9338
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Apr 09 2006 21:13:07 UTC
+
+GPS  time 828652401
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Apr 22 2006 01:46:29 UTC
+
+GPS  time 829705603
+{{{
+H1 is in Science Mode: H1 1285 829656246 829726214 69968
+H2 is not in Science Mode
+L1 is in Science Mode: L1 1679 829704841 829727994 23153
+H1L1 coincident duration is 21373
+}}}
+-----
+-----
+For event at Jun 19 2006 23:56:10 UTC
+
+GPS  time 834796584
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Jul 18 2006 03:13:56 UTC
+
+GPS  time 837227650
+{{{
+H1 is in Science Mode: H1 1841 837226405 837270382 43977
+H2 is not in Science Mode
+L1 is in Science Mode: L1 2503 837197805 837242911 45106
+H1L1 coincident duration is 16506
+}}}
+-----
+-----
+For event at Jul 18 2006 03:15:46 UTC
+
+GPS  time 837227760
+{{{
+H1 is in Science Mode: H1 1841 837226405 837270382 43977
+H2 is not in Science Mode
+L1 is in Science Mode: L1 2503 837197805 837242911 45106
+H1L1 coincident duration is 16506
+}}}
+-----
+-----
+For event at Jul 21 2006 17:11:02 UTC
+
+GPS  time 837537076
+{{{
+H1 is in Science Mode: H1 1866 837525262 837541644 16382
+H2 is in Science Mode: H2 1427 837459448 837541621 82173
+L1 is in Science Mode: L1 2552 837522284 837540007 17723
+H1L1 coincident duration is 14745
+H2L1 coincident duration is 17723
+H1H2 coincident duration is 16359
+Triple coincident duration is 14745
+}}}
+-----
+-----
+For event at Jul 26 2006 03:50:21 UTC
+
+GPS  time 837921035
+{{{
+H1 is in Science Mode: H1 1894 837915452 837924306 8854
+H2 is in Science Mode: H2 1443 837912587 837924310 11723
+L1 is in Science Mode: L1 2599 837914475 837921457 6982
+H1L1 coincident duration is 6005
+H2L1 coincident duration is 6982
+H1H2 coincident duration is 8854
+Triple coincident duration is 6005
+}}}
+-----
+-----
+For event at Jul 28 2006 08:21:42 UTC
+
+GPS  time 838110116
+{{{
+H1 is in Science Mode: H1 1909 838109204 838131150 21946
+H2 is in Science Mode: H2 1453 838109584 838150890 41306
+L1 is in Science Mode: L1 2625 838108995 838111503 2508
+H1L1 coincident duration is 2299
+H2L1 coincident duration is 1919
+H1H2 coincident duration is 21566
+Triple coincident duration is 1919
+}}}
+-----
+-----
+For event at Jul 30 2006 23:39:13 UTC
+
+GPS  time 838337967
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is in Science Mode: L1 2643 838322739 838339507 16768
+}}}
+-----
+-----
+For event at Jul 31 2006 07:34:29 UTC
+
+GPS  time 838366483
+{{{
+H1 is in Science Mode: H1 1925 838338209 838373693 35484
+H2 is in Science Mode: H2 1463 838338209 838373693 35484
+L1 is in Science Mode: L1 2648 838365194 838376098 10904
+H1L1 coincident duration is 8499
+H2L1 coincident duration is 8499
+H1H2 coincident duration is 35484
+Triple coincident duration is 8499
+}}}
+-----
+-----
+For event at Jul 31 2006 21:51:24 UTC
+
+GPS  time 838417898
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1467 838416293 838419186 2893
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Aug 01 2006 22:28:42 UTC
+
+GPS  time 838506536
+{{{
+H1 is in Science Mode: H1 1933 838495208 838569439 74231
+H2 is in Science Mode: H2 1470 838495209 838569438 74229
+L1 is in Science Mode: L1 2667 838505096 838511486 6390
+H1L1 coincident duration is 6390
+H2L1 coincident duration is 6390
+H1H2 coincident duration is 74229
+Triple coincident duration is 6390
+}}}
+-----
+-----
+For event at Aug 03 2006 03:28:02 UTC
+
+GPS  time 838610896
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1474 838610515 838629616 19101
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Aug 03 2006 11:13:51 UTC
+
+GPS  time 838638845
+{{{
+H1 is in Science Mode: H1 1938 838637063 838654726 17663
+H2 is in Science Mode: H2 1476 838636859 838664708 27849
+L1 is not in Science Mode
+H1H2 coincident duration is 17663
+}}}
+-----
+-----
+For event at Aug 03 2006 11:14:33 UTC
+
+GPS  time 838638887
+{{{
+H1 is in Science Mode: H1 1938 838637063 838654726 17663
+H2 is in Science Mode: H2 1476 838636859 838664708 27849
+L1 is not in Science Mode
+H1H2 coincident duration is 17663
+}}}
+-----
+-----
+For event at Aug 04 2006 03:28:02 UTC
+
+GPS  time 838697296
+{{{
+H1 is in Science Mode: H1 1947 838689877 838713259 23382
+H2 is in Science Mode: H2 1479 838690547 838713256 22709
+L1 is in Science Mode: L1 2697 838682061 838697376 15315
+H1L1 coincident duration is 7499
+H2L1 coincident duration is 6829
+H1H2 coincident duration is 22709
+Triple coincident duration is 6829
+}}}
+-----
+-----
+For event at Aug 06 2006 05:50:37 UTC
+
+GPS  time 838878651
+{{{
+H1 is in Science Mode: H1 1952 838845346 838910825 65479
+H2 is in Science Mode: H2 1485 838845348 838911833 66485
+L1 is in Science Mode: L1 2718 838870532 838885568 15036
+H1L1 coincident duration is 15036
+H2L1 coincident duration is 15036
+H1H2 coincident duration is 65477
+Triple coincident duration is 15036
+}}}
+-----
+-----
+For event at Aug 06 2006 14:23:44 UTC
+
+GPS  time 838909438
+{{{
+H1 is in Science Mode: H1 1952 838845346 838910825 65479
+H2 is in Science Mode: H2 1485 838845348 838911833 66485
+L1 is not in Science Mode
+H1H2 coincident duration is 65477
+}}}
+-----
+-----
+For event at Aug 07 2006 01:03:26 UTC
+
+GPS  time 838947820
+{{{
+H1 is in Science Mode: H1 1955 838927281 838997143 69862
+H2 is in Science Mode: H2 1487 838926507 839020535 94028
+L1 is not in Science Mode
+H1H2 coincident duration is 69862
+}}}
+-----
+-----
+For event at Aug 07 2006 01:38:01 UTC
+
+GPS  time 838949895
+{{{
+H1 is in Science Mode: H1 1955 838927281 838997143 69862
+H2 is in Science Mode: H2 1487 838926507 839020535 94028
+L1 is in Science Mode: L1 2723 838947966 838952479 4513
+H1L1 coincident duration is 4513
+H2L1 coincident duration is 4513
+H1H2 coincident duration is 69862
+Triple coincident duration is 4513
+}}}
+-----
+-----
+For event at Aug 07 2006 09:43:02 UTC
+
+GPS  time 838978996
+{{{
+H1 is in Science Mode: H1 1955 838927281 838997143 69862
+H2 is in Science Mode: H2 1487 838926507 839020535 94028
+L1 is in Science Mode: L1 2725 838969282 838981764 12482
+H1L1 coincident duration is 12482
+H2L1 coincident duration is 12482
+H1H2 coincident duration is 69862
+Triple coincident duration is 12482
+}}}
+-----
+-----
+For event at Aug 07 2006 18:24:24 UTC
+
+GPS  time 839010278
+{{{
+H1 is in Science Mode: H1 1957 839004377 839020727 16350
+H2 is in Science Mode: H2 1487 838926507 839020535 94028
+L1 is in Science Mode: L1 2727 839001937 839021601 19664
+H1L1 coincident duration is 16350
+H2L1 coincident duration is 18598
+H1H2 coincident duration is 16158
+Triple coincident duration is 16158
+}}}
+-----
+-----
+For event at Aug 07 2006 23:08:25 UTC
+
+GPS  time 839027319
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Aug 08 2006 04:32:57 UTC
+
+GPS  time 839046791
+{{{
+H1 is in Science Mode: H1 1961 839035337 839065085 29748
+H2 is in Science Mode: H2 1490 839027370 839073634 46264
+L1 is in Science Mode: L1 2731 839043952 839054463 10511
+H1L1 coincident duration is 10511
+H2L1 coincident duration is 10511
+H1H2 coincident duration is 29748
+Triple coincident duration is 10511
+}}}
+-----
+-----
+For event at Aug 10 2006 05:40:02 UTC
+
+GPS  time 839223616
+{{{
+H1 is in Science Mode: H1 1973 839203185 839229088 25903
+H2 is in Science Mode: H2 1499 839202995 839258175 55180
+L1 is in Science Mode: L1 2758 839214355 839229724 15369
+H1L1 coincident duration is 14733
+H2L1 coincident duration is 15369
+H1H2 coincident duration is 25903
+Triple coincident duration is 14733
+}}}
+-----
+-----
+For event at Aug 10 2006 07:16:02 UTC
+
+GPS  time 839229376
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1499 839202995 839258175 55180
+L1 is in Science Mode: L1 2758 839214355 839229724 15369
+H2L1 coincident duration is 15369
+}}}
+-----
+-----
+For event at Aug 10 2006 13:42:39 UTC
+
+GPS  time 839252573
+{{{
+H1 is in Science Mode: H1 1975 839249527 839254594 5067
+H2 is in Science Mode: H2 1499 839202995 839258175 55180
+L1 is in Science Mode: L1 2762 839251212 839259440 8228
+H1L1 coincident duration is 3382
+H2L1 coincident duration is 6963
+H1H2 coincident duration is 5067
+Triple coincident duration is 3382
+}}}
+-----
+-----
+For event at Aug 10 2006 15:20:40 UTC
+
+GPS  time 839258454
+{{{
+H1 is in Science Mode: H1 1978 839257558 839264680 7122
+H2 is not in Science Mode
+L1 is in Science Mode: L1 2762 839251212 839259440 8228
+H1L1 coincident duration is 1882
+}}}
+-----
+-----
+For event at Aug 11 2006 15:25:03 UTC
+
+GPS  time 839345117
+{{{
+H1 is in Science Mode: H1 1989 839344262 839347371 3109
+H2 is in Science Mode: H2 1512 839344886 839347372 2486
+L1 is not in Science Mode
+H1H2 coincident duration is 2485
+}}}
+-----
+-----
+For event at Aug 12 2006 04:08:44 UTC
+
+GPS  time 839390938
+{{{
+H1 is in Science Mode: H1 1996 839385650 839531966 146316
+H2 is in Science Mode: H2 1516 839371704 839564705 193001
+L1 is in Science Mode: L1 2774 839389256 839401355 12099
+H1L1 coincident duration is 12099
+H2L1 coincident duration is 12099
+H1H2 coincident duration is 146316
+Triple coincident duration is 12099
+}}}
+-----
+-----
+For event at Aug 12 2006 05:42:57 UTC
+
+GPS  time 839396591
+{{{
+H1 is in Science Mode: H1 1996 839385650 839531966 146316
+H2 is in Science Mode: H2 1516 839371704 839564705 193001
+L1 is in Science Mode: L1 2774 839389256 839401355 12099
+H1L1 coincident duration is 12099
+H2L1 coincident duration is 12099
+H1H2 coincident duration is 146316
+Triple coincident duration is 12099
+}}}
+-----
+-----
+For event at Aug 12 2006 21:51:12 UTC
+
+GPS  time 839454686
+{{{
+H1 is in Science Mode: H1 1996 839385650 839531966 146316
+H2 is in Science Mode: H2 1516 839371704 839564705 193001
+L1 is in Science Mode: L1 2780 839448439 839457224 8785
+H1L1 coincident duration is 8785
+H2L1 coincident duration is 8785
+H1H2 coincident duration is 146316
+Triple coincident duration is 8785
+}}}
+-----
+-----
+For event at Aug 13 2006 23:15:11 UTC
+
+GPS  time 839546125
+{{{
+H1 is in Science Mode: H1 1997 839533523 839564715 31192
+H2 is in Science Mode: H2 1516 839371704 839564705 193001
+L1 is in Science Mode: L1 2788 839541634 839554371 12737
+H1L1 coincident duration is 12737
+H2L1 coincident duration is 12737
+H1H2 coincident duration is 31182
+Triple coincident duration is 12737
+}}}
+-----
+-----
+For event at Aug 14 2006 01:08:42 UTC
+
+GPS  time 839552936
+{{{
+H1 is in Science Mode: H1 1997 839533523 839564715 31192
+H2 is in Science Mode: H2 1516 839371704 839564705 193001
+L1 is in Science Mode: L1 2788 839541634 839554371 12737
+H1L1 coincident duration is 12737
+H2L1 coincident duration is 12737
+H1H2 coincident duration is 31182
+Triple coincident duration is 12737
+}}}
+-----
+-----
+For event at Aug 14 2006 10:48:11 UTC
+
+GPS  time 839587705
+{{{
+H1 is in Science Mode: H1 1998 839565795 839605223 39428
+H2 is in Science Mode: H2 1517 839567485 839606211 38726
+L1 is in Science Mode: L1 2790 839574687 839591279 16592
+H1L1 coincident duration is 16592
+H2L1 coincident duration is 16592
+H1H2 coincident duration is 37738
+Triple coincident duration is 16592
+}}}
+-----
+-----
+For event at Aug 14 2006 13:43:04 UTC
+
+GPS  time 839598198
+{{{
+H1 is in Science Mode: H1 1998 839565795 839605223 39428
+H2 is in Science Mode: H2 1517 839567485 839606211 38726
+L1 is not in Science Mode
+H1H2 coincident duration is 37738
+}}}
+-----
+-----
+For event at Aug 14 2006 14:06:53 UTC
+
+GPS  time 839599627
+{{{
+H1 is in Science Mode: H1 1998 839565795 839605223 39428
+H2 is in Science Mode: H2 1517 839567485 839606211 38726
+L1 is in Science Mode: L1 2792 839598914 839609080 10166
+H1L1 coincident duration is 6309
+H2L1 coincident duration is 7297
+H1H2 coincident duration is 37738
+Triple coincident duration is 6309
+}}}
+-----
+-----
+For event at Aug 16 2006 10:38:56 UTC
+
+GPS  time 839759950
+{{{
+H1 is in Science Mode: H1 2009 839723122 839777328 54206
+H2 is in Science Mode: H2 1528 839722877 839792383 69506
+L1 is in Science Mode: L1 2804 839750786 839763588 12802
+H1L1 coincident duration is 12802
+H2L1 coincident duration is 12802
+H1H2 coincident duration is 54206
+Triple coincident duration is 12802
+}}}
+-----
+-----
+For event at Aug 16 2006 15:26:48 UTC
+
+GPS  time 839777222
+{{{
+H1 is in Science Mode: H1 2009 839723122 839777328 54206
+H2 is in Science Mode: H2 1528 839722877 839792383 69506
+L1 is not in Science Mode
+H1H2 coincident duration is 54206
+}}}
+-----
+-----
+For event at Aug 16 2006 15:30:00 UTC
+
+GPS  time 839777414
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1528 839722877 839792383 69506
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Aug 16 2006 15:45:08 UTC
+
+GPS  time 839778322
+{{{
+H1 is in Science Mode: H1 2010 839777573 839780715 3142
+H2 is in Science Mode: H2 1528 839722877 839792383 69506
+L1 is in Science Mode: L1 2806 839777616 839779556 1940
+H1L1 coincident duration is 1940
+H2L1 coincident duration is 1940
+H1H2 coincident duration is 3142
+Triple coincident duration is 1940
+}}}
+-----
+-----
+For event at Aug 16 2006 17:23:43 UTC
+
+GPS  time 839784237
+{{{
+H1 is in Science Mode: H1 2013 839783405 839784564 1159
+H2 is in Science Mode: H2 1528 839722877 839792383 69506
+L1 is in Science Mode: L1 2809 839781709 839791336 9627
+H1L1 coincident duration is 1159
+H2L1 coincident duration is 9627
+H1H2 coincident duration is 1159
+Triple coincident duration is 1159
+}}}
+-----
+-----
+For event at Aug 17 2006 12:35:36 UTC
+
+GPS  time 839853350
+{{{
+H1 is in Science Mode: H1 2023 839850170 839863878 13708
+H2 is in Science Mode: H2 1535 839849821 839863879 14058
+L1 is in Science Mode: L1 2820 839852276 839853942 1666
+H1L1 coincident duration is 1666
+H2L1 coincident duration is 1666
+H1H2 coincident duration is 13708
+Triple coincident duration is 1666
+}}}
+-----
+-----
+For event at Aug 19 2006 05:57:48 UTC
+
+GPS  time 840002282
+{{{
+H1 is in Science Mode: H1 2040 839984115 840039697 55582
+H2 is in Science Mode: H2 1552 839978764 840039696 60932
+L1 is not in Science Mode
+H1H2 coincident duration is 55581
+}}}
+-----
+-----
+For event at Aug 19 2006 14:44:29 UTC
+
+GPS  time 840033883
+{{{
+H1 is in Science Mode: H1 2040 839984115 840039697 55582
+H2 is in Science Mode: H2 1552 839978764 840039696 60932
+L1 is not in Science Mode
+H1H2 coincident duration is 55581
+}}}
+-----
+-----
+For event at Aug 20 2006 00:25:52 UTC
+
+GPS  time 840068766
+{{{
+H1 is in Science Mode: H1 2043 840052370 840081737 29367
+H2 is in Science Mode: H2 1560 840049816 840078675 28859
+L1 is not in Science Mode
+H1H2 coincident duration is 26305
+}}}
+-----
+-----
+For event at Aug 20 2006 06:40:32 UTC
+
+GPS  time 840091246
+{{{
+H1 is in Science Mode: H1 2045 840087551 840176733 89182
+H2 is in Science Mode: H2 1562 840082941 840176717 93776
+L1 is not in Science Mode
+H1H2 coincident duration is 89166
+}}}
+-----
+-----
+For event at Aug 21 2006 03:14:42 UTC
+
+GPS  time 840165296
+{{{
+H1 is in Science Mode: H1 2045 840087551 840176733 89182
+H2 is in Science Mode: H2 1562 840082941 840176717 93776
+L1 is in Science Mode: L1 2843 840161929 840170031 8102
+H1L1 coincident duration is 8102
+H2L1 coincident duration is 8102
+H1H2 coincident duration is 89166
+Triple coincident duration is 8102
+}}}
+-----
+-----
+For event at Aug 21 2006 04:49:06 UTC
+
+GPS  time 840170960
+{{{
+H1 is in Science Mode: H1 2045 840087551 840176733 89182
+H2 is in Science Mode: H2 1562 840082941 840176717 93776
+L1 is not in Science Mode
+H1H2 coincident duration is 89166
+}}}
+-----
+-----
+For event at Aug 21 2006 06:31:56 UTC
+
+GPS  time 840177130
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is in Science Mode: L1 2844 840171888 840180146 8258
+}}}
+-----
+-----
+For event at Aug 21 2006 12:56:08 UTC
+
+GPS  time 840200182
+{{{
+H1 is in Science Mode: H1 2046 840177619 840203631 26012
+H2 is in Science Mode: H2 1566 840198111 840200741 2630
+L1 is in Science Mode: L1 2847 840197939 840201193 3254
+H1L1 coincident duration is 3254
+H2L1 coincident duration is 2630
+H1H2 coincident duration is 2630
+Triple coincident duration is 2630
+}}}
+-----
+-----
+For event at Aug 21 2006 14:24:47 UTC
+
+GPS  time 840205501
+{{{
+H1 is in Science Mode: H1 2047 840203748 840206460 2712
+H2 is in Science Mode: H2 1567 840201287 840222293 21006
+L1 is in Science Mode: L1 2848 840201913 840205587 3674
+H1L1 coincident duration is 1839
+H2L1 coincident duration is 3674
+H1H2 coincident duration is 2712
+Triple coincident duration is 1839
+}}}
+-----
+-----
+For event at Aug 21 2006 16:17:27 UTC
+
+GPS  time 840212261
+{{{
+H1 is in Science Mode: H1 2048 840207805 840217150 9345
+H2 is in Science Mode: H2 1567 840201287 840222293 21006
+L1 is not in Science Mode
+H1H2 coincident duration is 9345
+}}}
+-----
+-----
+For event at Aug 21 2006 17:45:15 UTC
+
+GPS  time 840217529
+{{{
+H1 is in Science Mode: H1 2049 840217273 840227116 9843
+H2 is in Science Mode: H2 1567 840201287 840222293 21006
+L1 is not in Science Mode
+H1H2 coincident duration is 5020
+}}}
+-----
+-----
+For event at Aug 22 2006 18:05:31 UTC
+
+GPS  time 840305145
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Aug 23 2006 15:03:16 UTC
+
+GPS  time 840380610
+{{{
+H1 is in Science Mode: H1 2069 840374903 840394877 19974
+H2 is in Science Mode: H2 1575 840318176 840403597 85421
+L1 is in Science Mode: L1 2871 840380539 840382080 1541
+H1L1 coincident duration is 1541
+H2L1 coincident duration is 1541
+H1H2 coincident duration is 19974
+Triple coincident duration is 1541
+}}}
+-----
+-----
+For event at Aug 24 2006 14:55:26 UTC
+
+GPS  time 840466540
+{{{
+H1 is in Science Mode: H1 2072 840419956 840473691 53735
+H2 is in Science Mode: H2 1576 840405356 840488413 83057
+L1 is in Science Mode: L1 2876 840466225 840466670 445
+H1L1 coincident duration is 445
+H2L1 coincident duration is 445
+H1H2 coincident duration is 53735
+Triple coincident duration is 445
+}}}
+-----
+-----
+For event at Aug 24 2006 16:41:54 UTC
+
+GPS  time 840472928
+{{{
+H1 is in Science Mode: H1 2072 840419956 840473691 53735
+H2 is in Science Mode: H2 1576 840405356 840488413 83057
+L1 is in Science Mode: L1 2881 840470845 840476817 5972
+H1L1 coincident duration is 2846
+H2L1 coincident duration is 5972
+H1H2 coincident duration is 53735
+Triple coincident duration is 2846
+}}}
+-----
+-----
+For event at Aug 25 2006 02:44:54 UTC
+
+GPS  time 840509108
+{{{
+H1 is in Science Mode: H1 2078 840504519 840514504 9985
+H2 is in Science Mode: H2 1580 840505844 840576657 70813
+L1 is not in Science Mode
+H1H2 coincident duration is 8660
+}}}
+-----
+-----
+For event at Aug 25 2006 21:03:31 UTC
+
+GPS  time 840575025
+{{{
+H1 is in Science Mode: H1 2083 840568585 840576661 8076
+H2 is in Science Mode: H2 1580 840505844 840576657 70813
+L1 is in Science Mode: L1 2903 840565657 840577424 11767
+H1L1 coincident duration is 8076
+H2L1 coincident duration is 11000
+H1H2 coincident duration is 8072
+Triple coincident duration is 8072
+}}}
+-----
+-----
+For event at Aug 26 2006 02:13:37 UTC
+
+GPS  time 840593631
+{{{
+H1 is in Science Mode: H1 2085 840581650 840648633 66983
+H2 is in Science Mode: H2 1581 840585327 840671296 85969
+L1 is not in Science Mode
+H1H2 coincident duration is 63306
+}}}
+-----
+-----
+For event at Aug 26 2006 03:23:35 UTC
+
+GPS  time 840597829
+{{{
+H1 is in Science Mode: H1 2085 840581650 840648633 66983
+H2 is in Science Mode: H2 1581 840585327 840671296 85969
+L1 is not in Science Mode
+H1H2 coincident duration is 63306
+}}}
+-----
+-----
+For event at Aug 26 2006 04:13:22 UTC
+
+GPS  time 840600816
+{{{
+H1 is in Science Mode: H1 2085 840581650 840648633 66983
+H2 is in Science Mode: H2 1581 840585327 840671296 85969
+L1 is not in Science Mode
+H1H2 coincident duration is 63306
+}}}
+-----
+-----
+For event at Aug 26 2006 04:25:25 UTC
+
+GPS  time 840601539
+{{{
+H1 is in Science Mode: H1 2085 840581650 840648633 66983
+H2 is in Science Mode: H2 1581 840585327 840671296 85969
+L1 is not in Science Mode
+H1H2 coincident duration is 63306
+}}}
+-----
+-----
+For event at Aug 26 2006 08:51:14 UTC
+
+GPS  time 840617488
+{{{
+H1 is in Science Mode: H1 2085 840581650 840648633 66983
+H2 is in Science Mode: H2 1581 840585327 840671296 85969
+L1 is not in Science Mode
+H1H2 coincident duration is 63306
+}}}
+-----
+-----
+For event at Aug 26 2006 12:32:55 UTC
+
+GPS  time 840630789
+{{{
+H1 is in Science Mode: H1 2085 840581650 840648633 66983
+H2 is in Science Mode: H2 1581 840585327 840671296 85969
+L1 is in Science Mode: L1 2910 840630692 840635292 4600
+H1L1 coincident duration is 4600
+H2L1 coincident duration is 4600
+H1H2 coincident duration is 63306
+Triple coincident duration is 4600
+}}}
+-----
+-----
+For event at Aug 26 2006 18:48:47 UTC
+
+GPS  time 840653341
+{{{
+H1 is in Science Mode: H1 2086 840650420 840671297 20877
+H2 is in Science Mode: H2 1581 840585327 840671296 85969
+L1 is in Science Mode: L1 2916 840652833 840667141 14308
+H1L1 coincident duration is 14308
+H2L1 coincident duration is 14308
+H1H2 coincident duration is 20876
+Triple coincident duration is 14308
+}}}
+-----
+-----
+For event at Aug 26 2006 22:07:52 UTC
+
+GPS  time 840665286
+{{{
+H1 is in Science Mode: H1 2086 840650420 840671297 20877
+H2 is in Science Mode: H2 1581 840585327 840671296 85969
+L1 is in Science Mode: L1 2916 840652833 840667141 14308
+H1L1 coincident duration is 14308
+H2L1 coincident duration is 14308
+H1H2 coincident duration is 20876
+Triple coincident duration is 14308
+}}}
+-----
+-----
+For event at Aug 27 2006 03:14:45 UTC
+
+GPS  time 840683699
+{{{
+H1 is in Science Mode: H1 2087 840673257 840736828 63571
+H2 is in Science Mode: H2 1582 840672499 840734656 62157
+L1 is in Science Mode: L1 2918 840677421 840694471 17050
+H1L1 coincident duration is 17050
+H2L1 coincident duration is 17050
+H1H2 coincident duration is 61399
+Triple coincident duration is 17050
+}}}
+-----
+-----
+For event at Aug 27 2006 04:20:10 UTC
+
+GPS  time 840687624
+{{{
+H1 is in Science Mode: H1 2087 840673257 840736828 63571
+H2 is in Science Mode: H2 1582 840672499 840734656 62157
+L1 is in Science Mode: L1 2918 840677421 840694471 17050
+H1L1 coincident duration is 17050
+H2L1 coincident duration is 17050
+H1H2 coincident duration is 61399
+Triple coincident duration is 17050
+}}}
+-----
+-----
+For event at Aug 27 2006 08:49:52 UTC
+
+GPS  time 840703806
+{{{
+H1 is in Science Mode: H1 2087 840673257 840736828 63571
+H2 is in Science Mode: H2 1582 840672499 840734656 62157
+L1 is in Science Mode: L1 2921 840699450 840710560 11110
+H1L1 coincident duration is 11110
+H2L1 coincident duration is 11110
+H1H2 coincident duration is 61399
+Triple coincident duration is 11110
+}}}
+-----
+-----
+For event at Aug 27 2006 12:25:26 UTC
+
+GPS  time 840716740
+{{{
+H1 is in Science Mode: H1 2087 840673257 840736828 63571
+H2 is in Science Mode: H2 1582 840672499 840734656 62157
+L1 is in Science Mode: L1 2922 840711850 840725286 13436
+H1L1 coincident duration is 13436
+H2L1 coincident duration is 13436
+H1H2 coincident duration is 61399
+Triple coincident duration is 13436
+}}}
+-----
+-----
+For event at Aug 27 2006 12:41:34 UTC
+
+GPS  time 840717708
+{{{
+H1 is in Science Mode: H1 2087 840673257 840736828 63571
+H2 is in Science Mode: H2 1582 840672499 840734656 62157
+L1 is in Science Mode: L1 2922 840711850 840725286 13436
+H1L1 coincident duration is 13436
+H2L1 coincident duration is 13436
+H1H2 coincident duration is 61399
+Triple coincident duration is 13436
+}}}
+-----
+-----
+For event at Aug 28 2006 13:38:31 UTC
+
+GPS  time 840807525
+{{{
+H1 is in Science Mode: H1 2092 840752767 840826333 73566
+H2 is in Science Mode: H2 1588 840753220 840836525 83305
+L1 is not in Science Mode
+H1H2 coincident duration is 73113
+}}}
+-----
+-----
+For event at Aug 29 2006 21:57:47 UTC
+
+GPS  time 840923881
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is in Science Mode: L1 2942 840922523 840926497 3974
+}}}
+-----
+-----
+For event at Aug 29 2006 22:10:28 UTC
+
+GPS  time 840924642
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1593 840924043 840926222 2179
+L1 is in Science Mode: L1 2942 840922523 840926497 3974
+H2L1 coincident duration is 2179
+}}}
+-----
+-----
+For event at Aug 29 2006 22:48:01 UTC
+
+GPS  time 840926895
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1594 840926839 840931150 4311
+L1 is in Science Mode: L1 2943 840926567 840928048 1481
+H2L1 coincident duration is 1209
+}}}
+-----
+-----
+For event at Aug 30 2006 03:16:47 UTC
+
+GPS  time 840943021
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1596 840933996 840993811 59815
+L1 is in Science Mode: L1 2944 840928790 840945620 16830
+H2L1 coincident duration is 11624
+}}}
+-----
+-----
+For event at Aug 30 2006 14:58:39 UTC
+
+GPS  time 840985133
+{{{
+H1 is in Science Mode: H1 2111 840967297 840993816 26519
+H2 is in Science Mode: H2 1596 840933996 840993811 59815
+L1 is not in Science Mode
+H1H2 coincident duration is 26514
+}}}
+-----
+-----
+For event at Aug 30 2006 15:11:34 UTC
+
+GPS  time 840985908
+{{{
+H1 is in Science Mode: H1 2111 840967297 840993816 26519
+H2 is in Science Mode: H2 1596 840933996 840993811 59815
+L1 is not in Science Mode
+H1H2 coincident duration is 26514
+}}}
+-----
+-----
+For event at Sep 02 2006 23:40:27 UTC
+
+GPS  time 841275641
+{{{
+H1 is in Science Mode: H1 2149 841263435 841305700 42265
+H2 is in Science Mode: H2 1611 841263548 841305692 42144
+L1 is in Science Mode: L1 2993 841267660 841277768 10108
+H1L1 coincident duration is 10108
+H2L1 coincident duration is 10108
+H1H2 coincident duration is 42144
+Triple coincident duration is 10108
+}}}
+-----
+-----
+For event at Sep 11 2006 08:56:44 UTC
+
+GPS  time 842000218
+{{{
+H1 is in Science Mode: H1 2173 841960615 842027332 66717
+H2 is in Science Mode: H2 1633 841964047 842037042 72995
+L1 is in Science Mode: L1 3077 841994886 842013078 18192
+H1L1 coincident duration is 18192
+H2L1 coincident duration is 18192
+H1H2 coincident duration is 63285
+Triple coincident duration is 18192
+}}}
+-----
+-----
+For event at Sep 16 2006 23:42:57 UTC
+
+GPS  time 842485391
+{{{
+H1 is in Science Mode: H1 2206 842469613 842492085 22472
+H2 is not in Science Mode
+L1 is in Science Mode: L1 3115 842449013 842511260 62247
+H1L1 coincident duration is 22472
+}}}
+-----
+-----
+For event at Sep 17 2006 17:41:23 UTC
+
+GPS  time 842550097
+{{{
+H1 is in Science Mode: H1 2209 842523086 842561795 38709
+H2 is in Science Mode: H2 1660 842522669 842561786 39117
+L1 is in Science Mode: L1 3118 842530634 842588329 57695
+H1L1 coincident duration is 31161
+H2L1 coincident duration is 31152
+H1H2 coincident duration is 38700
+Triple coincident duration is 31152
+}}}
+-----
+-----
+For event at Sep 18 2006 20:21:44 UTC
+
+GPS  time 842646118
+{{{
+H1 is in Science Mode: H1 2212 842587891 842646433 58542
+H2 is in Science Mode: H2 1662 842587893 842652966 65073
+L1 is in Science Mode: L1 3124 842637054 842660600 23546
+H1L1 coincident duration is 9379
+H2L1 coincident duration is 15912
+H1H2 coincident duration is 58540
+Triple coincident duration is 9379
+}}}
+-----
+-----
+For event at Sep 19 2006 20:27:03 UTC
+
+GPS  time 842732837
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Sep 19 2006 20:33:22 UTC
+
+GPS  time 842733216
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Sep 19 2006 20:42:28 UTC
+
+GPS  time 842733762
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Sep 20 2006 13:53:41 UTC
+
+GPS  time 842795635
+{{{
+H1 is in Science Mode: H1 2216 842745810 842803549 57739
+H2 is in Science Mode: H2 1671 842763781 842803550 39769
+L1 is in Science Mode: L1 3136 842792841 842798174 5333
+H1L1 coincident duration is 5333
+H2L1 coincident duration is 5333
+H1H2 coincident duration is 39768
+Triple coincident duration is 5333
+}}}
+-----
+-----
+For event at Sep 22 2006 02:10:54 UTC
+
+GPS  time 842926268
+{{{
+H1 is in Science Mode: H1 2240 842922490 842928274 5784
+H2 is in Science Mode: H2 1685 842924510 842928272 3762
+L1 is in Science Mode: L1 3147 842909642 842928136 18494
+H1L1 coincident duration is 5646
+H2L1 coincident duration is 3626
+H1H2 coincident duration is 3762
+Triple coincident duration is 3626
+}}}
+-----
+-----
+For event at Sep 22 2006 03:38:09 UTC
+
+GPS  time 842931503
+{{{
+H1 is in Science Mode: H1 2241 842929318 842964022 34704
+H2 is in Science Mode: H2 1686 842929002 842967540 38538
+L1 is in Science Mode: L1 3149 842931073 842937025 5952
+H1L1 coincident duration is 5952
+H2L1 coincident duration is 5952
+H1H2 coincident duration is 34704
+Triple coincident duration is 5952
+}}}
+-----
+-----
+For event at Sep 22 2006 05:15:56 UTC
+
+GPS  time 842937370
+{{{
+H1 is in Science Mode: H1 2241 842929318 842964022 34704
+H2 is in Science Mode: H2 1686 842929002 842967540 38538
+L1 is not in Science Mode
+H1H2 coincident duration is 34704
+}}}
+-----
+-----
+For event at Sep 22 2006 08:02:19 UTC
+
+GPS  time 842947353
+{{{
+H1 is in Science Mode: H1 2241 842929318 842964022 34704
+H2 is in Science Mode: H2 1686 842929002 842967540 38538
+L1 is in Science Mode: L1 3152 842944494 842957872 13378
+H1L1 coincident duration is 13378
+H2L1 coincident duration is 13378
+H1H2 coincident duration is 34704
+Triple coincident duration is 13378
+}}}
+-----
+-----
+For event at Sep 22 2006 12:47:25 UTC
+
+GPS  time 842964459
+{{{
+H1 is in Science Mode: H1 2242 842964135 842969775 5640
+H2 is in Science Mode: H2 1686 842929002 842967540 38538
+L1 is in Science Mode: L1 3153 842958034 842973064 15030
+H1L1 coincident duration is 5640
+H2L1 coincident duration is 9506
+H1H2 coincident duration is 3405
+Triple coincident duration is 3405
+}}}
+-----
+-----
+For event at Sep 22 2006 14:33:52 UTC
+
+GPS  time 842970846
+{{{
+H1 is in Science Mode: H1 2243 842969822 842972913 3091
+H2 is in Science Mode: H2 1687 842968300 842972948 4648
+L1 is in Science Mode: L1 3153 842958034 842973064 15030
+H1L1 coincident duration is 3091
+H2L1 coincident duration is 4648
+H1H2 coincident duration is 3091
+Triple coincident duration is 3091
+}}}
+-----
+-----
+For event at Sep 22 2006 16:13:47 UTC
+
+GPS  time 842976841
+{{{
+H1 is in Science Mode: H1 2244 842975665 842978179 2514
+H2 is in Science Mode: H2 1688 842975105 842981165 6060
+L1 is not in Science Mode
+H1H2 coincident duration is 2514
+}}}
+-----
+-----
+For event at Sep 22 2006 19:27:34 UTC
+
+GPS  time 842988468
+{{{
+H1 is in Science Mode: H1 2247 842987939 842989005 1066
+H2 is in Science Mode: H2 1690 842986773 842988995 2222
+L1 is not in Science Mode
+H1H2 coincident duration is 1056
+}}}
+-----
+-----
+For event at Sep 22 2006 22:18:02 UTC
+
+GPS  time 842998696
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1694 842998603 842999798 1195
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Sep 23 2006 02:06:17 UTC
+
+GPS  time 843012391
+{{{
+H1 is in Science Mode: H1 2251 842999102 843025626 26524
+H2 is in Science Mode: H2 1695 843000650 843025617 24967
+L1 is in Science Mode: L1 3157 843009324 843021217 11893
+H1L1 coincident duration is 11893
+H2L1 coincident duration is 11893
+H1H2 coincident duration is 24967
+Triple coincident duration is 11893
+}}}
+-----
+-----
+For event at Sep 23 2006 02:07:46 UTC
+
+GPS  time 843012480
+{{{
+H1 is in Science Mode: H1 2251 842999102 843025626 26524
+H2 is in Science Mode: H2 1695 843000650 843025617 24967
+L1 is in Science Mode: L1 3157 843009324 843021217 11893
+H1L1 coincident duration is 11893
+H2L1 coincident duration is 11893
+H1H2 coincident duration is 24967
+Triple coincident duration is 11893
+}}}
+-----
+-----
+For event at Sep 24 2006 00:03:57 UTC
+
+GPS  time 843091451
+{{{
+H1 is in Science Mode: H1 2252 843027157 843167743 140586
+H2 is in Science Mode: H2 1696 843026914 843105388 78474
+L1 is in Science Mode: L1 3165 843082087 843095840 13753
+H1L1 coincident duration is 13753
+H2L1 coincident duration is 13753
+H1H2 coincident duration is 78231
+Triple coincident duration is 13753
+}}}
+-----
+-----
+For event at Sep 24 2006 02:16:13 UTC
+
+GPS  time 843099387
+{{{
+H1 is in Science Mode: H1 2252 843027157 843167743 140586
+H2 is in Science Mode: H2 1696 843026914 843105388 78474
+L1 is in Science Mode: L1 3166 843096433 843116381 19948
+H1L1 coincident duration is 19948
+H2L1 coincident duration is 8955
+H1H2 coincident duration is 78231
+Triple coincident duration is 8955
+}}}
+-----
+-----
+For event at Sep 24 2006 05:18:21 UTC
+
+GPS  time 843110315
+{{{
+H1 is in Science Mode: H1 2252 843027157 843167743 140586
+H2 is not in Science Mode
+L1 is in Science Mode: L1 3166 843096433 843116381 19948
+H1L1 coincident duration is 19948
+}}}
+-----
+-----
+For event at Sep 24 2006 18:18:16 UTC
+
+GPS  time 843157110
+{{{
+H1 is in Science Mode: H1 2252 843027157 843167743 140586
+H2 is in Science Mode: H2 1699 843134293 843167744 33451
+L1 is in Science Mode: L1 3170 843155515 843168576 13061
+H1L1 coincident duration is 12228
+H2L1 coincident duration is 12229
+H1H2 coincident duration is 33450
+Triple coincident duration is 12228
+}}}
+-----
+-----
+For event at Sep 24 2006 23:02:06 UTC
+
+GPS  time 843174140
+{{{
+H1 is in Science Mode: H1 2253 843168844 843175000 6156
+H2 is in Science Mode: H2 1700 843168869 843175003 6134
+L1 is in Science Mode: L1 3171 843172696 843196959 24263
+H1L1 coincident duration is 2304
+H2L1 coincident duration is 2307
+H1H2 coincident duration is 6131
+Triple coincident duration is 2304
+}}}
+-----
+-----
+For event at Sep 25 2006 00:27:51 UTC
+
+GPS  time 843179285
+{{{
+H1 is in Science Mode: H1 2254 843175463 843240077 64614
+H2 is in Science Mode: H2 1701 843176581 843223889 47308
+L1 is in Science Mode: L1 3171 843172696 843196959 24263
+H1L1 coincident duration is 21496
+H2L1 coincident duration is 20378
+H1H2 coincident duration is 47308
+Triple coincident duration is 20378
+}}}
+-----
+-----
+For event at Sep 25 2006 18:51:44 UTC
+
+GPS  time 843245518
+{{{
+H1 is in Science Mode: H1 2255 843240172 843257765 17593
+H2 is in Science Mode: H2 1702 843225754 843251644 25890
+L1 is in Science Mode: L1 3185 843244196 843246589 2393
+H1L1 coincident duration is 2393
+H2L1 coincident duration is 2393
+H1H2 coincident duration is 11472
+Triple coincident duration is 2393
+}}}
+-----
+-----
+For event at Sep 26 2006 00:44:50 UTC
+
+GPS  time 843266704
+{{{
+H1 is in Science Mode: H1 2256 843258040 843318082 60042
+H2 is in Science Mode: H2 1704 843259138 843272271 13133
+L1 is not in Science Mode
+H1H2 coincident duration is 13133
+}}}
+-----
+-----
+For event at Sep 26 2006 16:39:29 UTC
+
+GPS  time 843323983
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Sep 27 2006 07:19:31 UTC
+
+GPS  time 843376785
+{{{
+H1 is in Science Mode: H1 2258 843359900 843406015 46115
+H2 is in Science Mode: H2 1706 843348886 843421659 72773
+L1 is in Science Mode: L1 3199 843367723 843379518 11795
+H1L1 coincident duration is 11795
+H2L1 coincident duration is 11795
+H1H2 coincident duration is 46115
+Triple coincident duration is 11795
+}}}
+-----
+-----
+For event at Sep 27 2006 08:58:43 UTC
+
+GPS  time 843382737
+{{{
+H1 is in Science Mode: H1 2258 843359900 843406015 46115
+H2 is in Science Mode: H2 1706 843348886 843421659 72773
+L1 is in Science Mode: L1 3200 843380889 843385988 5099
+H1L1 coincident duration is 5099
+H2L1 coincident duration is 5099
+H1H2 coincident duration is 46115
+Triple coincident duration is 5099
+}}}
+-----
+-----
+For event at Sep 27 2006 09:00:56 UTC
+
+GPS  time 843382870
+{{{
+H1 is in Science Mode: H1 2258 843359900 843406015 46115
+H2 is in Science Mode: H2 1706 843348886 843421659 72773
+L1 is in Science Mode: L1 3200 843380889 843385988 5099
+H1L1 coincident duration is 5099
+H2L1 coincident duration is 5099
+H1H2 coincident duration is 46115
+Triple coincident duration is 5099
+}}}
+-----
+-----
+For event at Sep 27 2006 16:39:30 UTC
+
+GPS  time 843410384
+{{{
+H1 is in Science Mode: H1 2259 843406106 843410599 4493
+H2 is in Science Mode: H2 1706 843348886 843421659 72773
+L1 is not in Science Mode
+H1H2 coincident duration is 4493
+}}}
+-----
+-----
+For event at Sep 28 2006 21:51:16 UTC
+
+GPS  time 843515490
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1720 843515185 843571121 55936
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Sep 28 2006 23:16:25 UTC
+
+GPS  time 843520599
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 1720 843515185 843571121 55936
+L1 is in Science Mode: L1 3222 843517346 843525677 8331
+H2L1 coincident duration is 8331
+}}}
+-----
+-----
+For event at Sep 29 2006 07:14:31 UTC
+
+GPS  time 843549285
+{{{
+H1 is in Science Mode: H1 2271 843520939 843571121 50182
+H2 is in Science Mode: H2 1720 843515185 843571121 55936
+L1 is in Science Mode: L1 3223 843526227 843552313 26086
+H1L1 coincident duration is 26086
+H2L1 coincident duration is 26086
+H1H2 coincident duration is 50182
+Triple coincident duration is 26086
+}}}
+-----
+-----
+For event at Sep 30 2006 06:03:33 UTC
+
+GPS  time 843631427
+{{{
+H1 is in Science Mode: H1 2276 843612341 843657817 45476
+H2 is in Science Mode: H2 1723 843606483 843635630 29147
+L1 is in Science Mode: L1 3233 843621719 843635491 13772
+H1L1 coincident duration is 13772
+H2L1 coincident duration is 13772
+H1H2 coincident duration is 23289
+Triple coincident duration is 13772
+}}}
+-----
+-----
+For event at Sep 30 2006 15:31:38 UTC
+
+GPS  time 843665512
+{{{
+H1 is in Science Mode: H1 2277 843658111 843673027 14916
+H2 is in Science Mode: H2 1727 843657474 843669518 12044
+L1 is not in Science Mode
+H1H2 coincident duration is 11407
+}}}
+-----
+-----
+For event at Oct 02 2006 03:10:05 UTC
+
+GPS  time 843793819
+{{{
+H1 is in Science Mode: H1 2287 843766574 843848840 82266
+H2 is in Science Mode: H2 1738 843766575 843795788 29213
+L1 is in Science Mode: L1 3244 843772576 843810380 37804
+H1L1 coincident duration is 37804
+H2L1 coincident duration is 23212
+H1H2 coincident duration is 29213
+Triple coincident duration is 23212
+}}}
+-----
+-----
+For event at Oct 04 2006 06:01:08 UTC
+
+GPS  time 843976882
+{{{
+H1 is in Science Mode: H1 2295 843949687 843990245 40558
+H2 is in Science Mode: H2 1751 843969489 844007072 37583
+L1 is in Science Mode: L1 3258 843952829 843981622 28793
+H1L1 coincident duration is 28793
+H2L1 coincident duration is 12133
+H1H2 coincident duration is 20756
+Triple coincident duration is 12133
+}}}
+-----
+-----
+For event at Oct 06 2006 01:21:55 UTC
+
+GPS  time 844132929
+{{{
+H1 is in Science Mode: H1 2304 844126649 844183011 56362
+H2 is in Science Mode: H2 1763 844124285 844199661 75376
+L1 is in Science Mode: L1 3289 844128342 844135782 7440
+H1L1 coincident duration is 7440
+H2L1 coincident duration is 7440
+H1H2 coincident duration is 56362
+Triple coincident duration is 7440
+}}}
+-----
+-----
+For event at Oct 08 2006 08:23:26 UTC
+
+GPS  time 844331020
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is in Science Mode: L1 3312 844329365 844352731 23366
+}}}
+-----
+-----
+For event at Oct 10 2006 18:19:01 UTC
+
+GPS  time 844539555
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Oct 12 2006 18:10:19 UTC
+
+GPS  time 844711833
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Oct 18 2006 13:59:45 UTC
+
+GPS  time 845215199
+{{{
+H1 is in Science Mode: H1 2350 845162798 845222962 60164
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Oct 18 2006 14:02:00 UTC
+
+GPS  time 845215334
+{{{
+H1 is in Science Mode: H1 2350 845162798 845222962 60164
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Oct 19 2006 04:41:45 UTC
+
+GPS  time 845268119
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is in Science Mode: L1 3419 845264643 845279437 14794
+}}}
+-----
+-----
+For event at Oct 19 2006 12:36:45 UTC
+
+GPS  time 845296619
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Oct 22 2006 01:53:03 UTC
+
+GPS  time 845517197
+{{{
+H1 is in Science Mode: H1 2365 845510814 845540428 29614
+H2 is in Science Mode: H2 1794 845511919 845533124 21205
+L1 is in Science Mode: L1 3454 845498313 845536099 37786
+H1L1 coincident duration is 25285
+H2L1 coincident duration is 21205
+H1H2 coincident duration is 21205
+Triple coincident duration is 21205
+}}}
+-----
+-----
+For event at Oct 25 2006 22:52:22 UTC
+
+GPS  time 845851956
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Oct 27 2006 15:20:53 UTC
+
+GPS  time 845997667
+{{{
+H1 is in Science Mode: H1 2381 845966390 845999771 33381
+H2 is in Science Mode: H2 1814 845952213 846013227 61014
+L1 is not in Science Mode
+H1H2 coincident duration is 33381
+}}}
+-----
+-----
+For event at Oct 29 2006 10:27:49 UTC
+
+GPS  time 846152883
+{{{
+H1 is in Science Mode: H1 2396 846144349 846173275 28926
+H2 is in Science Mode: H2 1822 846147105 846188977 41872
+L1 is in Science Mode: L1 3511 846144067 846168657 24590
+H1L1 coincident duration is 24308
+H2L1 coincident duration is 21552
+H1H2 coincident duration is 26170
+Triple coincident duration is 21552
+}}}
+-----
+-----
+For event at Oct 30 2006 20:32:47 UTC
+
+GPS  time 846275581
+{{{
+H1 is in Science Mode: H1 2411 846272666 846276036 3370
+H2 is in Science Mode: H2 1824 846200270 846311995 111725
+L1 is not in Science Mode
+H1H2 coincident duration is 3370
+}}}
+-----
+-----
+For event at Nov 10 2006 00:25:21 UTC
+
+GPS  time 847153535
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is in Science Mode: L1 3603 847151873 847161178 9305
+}}}
+-----
+-----
+For event at Nov 20 2006 00:25:21 UTC
+
+GPS  time 848017535
+{{{
+H1 is in Science Mode: H1 2486 848015190 848069492 54302
+H2 is in Science Mode: H2 1902 848015192 848031222 16030
+L1 is in Science Mode: L1 3723 848016488 848021078 4590
+H1L1 coincident duration is 4590
+H2L1 coincident duration is 4590
+H1H2 coincident duration is 16030
+Triple coincident duration is 4590
+}}}
+-----
+-----
+For event at Dec 08 2006 13:00:33 UTC
+
+GPS  time 849618047
+{{{
+H1 is in Science Mode: H1 2569 849574942 849637851 62909
+H2 is in Science Mode: H2 1991 849576463 849637563 61100
+L1 is not in Science Mode
+H1H2 coincident duration is 61100
+}}}
+-----
+-----
+For event at Jan 21 2007 06:06:16 UTC
+
+GPS  time 853394790
+{{{
+H1 is in Science Mode: H1 2734 853359508 853414965 55457
+H2 is in Science Mode: H2 2179 853359789 853414947 55158
+L1 is in Science Mode: L1 4330 853394407 853401341 6934
+H1L1 coincident duration is 6934
+H2L1 coincident duration is 6934
+H1H2 coincident duration is 55158
+Triple coincident duration is 6934
+}}}
+-----
+-----
+For event at Jan 26 2007 08:14:17 UTC
+
+GPS  time 853834471
+{{{
+H1 is in Science Mode: H1 2749 853832364 853838698 6334
+H2 is in Science Mode: H2 2193 853832363 853838698 6335
+L1 is in Science Mode: L1 4348 853832544 853834492 1948
+H1L1 coincident duration is 1948
+H2L1 coincident duration is 1948
+H1H2 coincident duration is 6334
+Triple coincident duration is 1948
+}}}
+-----
+-----
+For event at Jan 29 2007 08:51:27 UTC
+
+GPS  time 854095901
+{{{
+H1 is in Science Mode: H1 2758 854088141 854123083 34942
+H2 is in Science Mode: H2 2199 854089180 854123137 33957
+L1 is not in Science Mode
+H1H2 coincident duration is 33903
+}}}
+-----
+-----
+For event at Feb 01 2007 07:08:37 UTC
+
+GPS  time 854348931
+{{{
+H1 is in Science Mode: H1 2769 854327037 854408775 81738
+H2 is in Science Mode: H2 2209 854326882 854408776 81894
+L1 is in Science Mode: L1 4363 854345269 854352739 7470
+H1L1 coincident duration is 7470
+H2L1 coincident duration is 7470
+H1H2 coincident duration is 81738
+Triple coincident duration is 7470
+}}}
+-----
+-----
+For event at Feb 07 2007 04:15:31 UTC
+
+GPS  time 854856945
+{{{
+H1 is in Science Mode: H1 2787 854830971 854910442 79471
+H2 is in Science Mode: H2 2227 854830973 854910444 79471
+L1 is in Science Mode: L1 4409 854847971 854871317 23346
+H1L1 coincident duration is 23346
+H2L1 coincident duration is 23346
+H1H2 coincident duration is 79469
+Triple coincident duration is 23346
+}}}
+-----
+-----
+For event at Feb 15 2007 22:54:24 UTC
+
+GPS  time 855615278
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Feb 16 2007 13:46:02 UTC
+
+GPS  time 855668776
+{{{
+H1 is in Science Mode: H1 2824 855619748 855674546 54798
+H2 is in Science Mode: H2 2256 855622572 855684769 62197
+L1 is in Science Mode: L1 4479 855663843 855669430 5587
+H1L1 coincident duration is 5587
+H2L1 coincident duration is 5587
+H1H2 coincident duration is 51974
+Triple coincident duration is 5587
+}}}
+-----
+-----
+For event at Feb 19 2007 20:22:04 UTC
+
+GPS  time 855951738
+{{{
+H1 is in Science Mode: H1 2845 855951048 855953092 2044
+H2 is in Science Mode: H2 2270 855949812 855953847 4035
+L1 is in Science Mode: L1 4511 855941422 855956156 14734
+H1L1 coincident duration is 2044
+H2L1 coincident duration is 4035
+H1H2 coincident duration is 2044
+Triple coincident duration is 2044
+}}}
+-----
+-----
+For event at Feb 22 2007 18:59:28 UTC
+
+GPS  time 856205982
+{{{
+H1 is in Science Mode: H1 2861 856202700 856258897 56197
+H2 is in Science Mode: H2 2287 856168057 856210356 42299
+L1 is not in Science Mode
+H1H2 coincident duration is 7656
+}}}
+-----
+-----
+For event at Feb 22 2007 19:01:36 UTC
+
+GPS  time 856206110
+{{{
+H1 is in Science Mode: H1 2861 856202700 856258897 56197
+H2 is in Science Mode: H2 2287 856168057 856210356 42299
+L1 is not in Science Mode
+H1H2 coincident duration is 7656
+}}}
+-----
+-----
+For event at Feb 22 2007 19:02:06 UTC
+
+GPS  time 856206140
+{{{
+H1 is in Science Mode: H1 2861 856202700 856258897 56197
+H2 is in Science Mode: H2 2287 856168057 856210356 42299
+L1 is not in Science Mode
+H1H2 coincident duration is 7656
+}}}
+-----
+-----
+For event at Feb 22 2007 22:43:14 UTC
+
+GPS  time 856219408
+{{{
+H1 is in Science Mode: H1 2861 856202700 856258897 56197
+H2 is in Science Mode: H2 2289 856218987 856223841 4854
+L1 is not in Science Mode
+H1H2 coincident duration is 4854
+}}}
+-----
+-----
+For event at Feb 23 2007 07:56:16 UTC
+
+GPS  time 856252590
+{{{
+H1 is in Science Mode: H1 2861 856202700 856258897 56197
+H2 is in Science Mode: H2 2291 856233656 856258814 25158
+L1 is not in Science Mode
+H1H2 coincident duration is 25158
+}}}
+-----
+-----
+For event at Feb 23 2007 07:57:18 UTC
+
+GPS  time 856252652
+{{{
+H1 is in Science Mode: H1 2861 856202700 856258897 56197
+H2 is in Science Mode: H2 2291 856233656 856258814 25158
+L1 is not in Science Mode
+H1H2 coincident duration is 25158
+}}}
+-----
+-----
+For event at Feb 23 2007 08:03:54 UTC
+
+GPS  time 856253048
+{{{
+H1 is in Science Mode: H1 2861 856202700 856258897 56197
+H2 is in Science Mode: H2 2291 856233656 856258814 25158
+L1 is not in Science Mode
+H1H2 coincident duration is 25158
+}}}
+-----
+-----
+For event at Feb 23 2007 11:09:48 UTC
+
+GPS  time 856264202
+{{{
+H1 is in Science Mode: H1 2862 856259142 856286476 27334
+H2 is in Science Mode: H2 2292 856259542 856276907 17365
+L1 is in Science Mode: L1 4560 856254207 856272822 18615
+H1L1 coincident duration is 13680
+H2L1 coincident duration is 13280
+H1H2 coincident duration is 17365
+Triple coincident duration is 13280
+}}}
+-----
+-----
+For event at Feb 23 2007 12:16:13 UTC
+
+GPS  time 856268187
+{{{
+H1 is in Science Mode: H1 2862 856259142 856286476 27334
+H2 is in Science Mode: H2 2292 856259542 856276907 17365
+L1 is in Science Mode: L1 4560 856254207 856272822 18615
+H1L1 coincident duration is 13680
+H2L1 coincident duration is 13280
+H1H2 coincident duration is 17365
+Triple coincident duration is 13280
+}}}
+-----
+-----
+For event at Feb 23 2007 13:46:36 UTC
+
+GPS  time 856273610
+{{{
+H1 is in Science Mode: H1 2862 856259142 856286476 27334
+H2 is in Science Mode: H2 2292 856259542 856276907 17365
+L1 is not in Science Mode
+H1H2 coincident duration is 17365
+}}}
+-----
+-----
+For event at Feb 24 2007 16:05:31 UTC
+
+GPS  time 856368345
+{{{
+H1 is in Science Mode: H1 2868 856323079 856369825 46746
+H2 is in Science Mode: H2 2299 856331724 856383008 51284
+L1 is in Science Mode: L1 4575 856364685 856384033 19348
+H1L1 coincident duration is 5140
+H2L1 coincident duration is 18323
+H1H2 coincident duration is 38101
+Triple coincident duration is 5140
+}}}
+-----
+-----
+For event at Feb 24 2007 18:49:13 UTC
+
+GPS  time 856378167
+{{{
+H1 is in Science Mode: H1 2869 856369958 856383011 13053
+H2 is in Science Mode: H2 2299 856331724 856383008 51284
+L1 is in Science Mode: L1 4575 856364685 856384033 19348
+H1L1 coincident duration is 13053
+H2L1 coincident duration is 18323
+H1H2 coincident duration is 13050
+Triple coincident duration is 13050
+}}}
+-----
+-----
+For event at Feb 25 2007 01:55:01 UTC
+
+GPS  time 856403715
+{{{
+H1 is in Science Mode: H1 2871 856397630 856411008 13378
+H2 is in Science Mode: H2 2302 856402589 856411010 8421
+L1 is in Science Mode: L1 4577 856389986 856423632 33646
+H1L1 coincident duration is 13378
+H2L1 coincident duration is 8421
+H1H2 coincident duration is 8419
+Triple coincident duration is 8419
+}}}
+-----
+-----
+For event at Feb 25 2007 12:57:44 UTC
+
+GPS  time 856443478
+{{{
+H1 is in Science Mode: H1 2873 856437403 856451149 13746
+H2 is in Science Mode: H2 2305 856439172 856451164 11992
+L1 is in Science Mode: L1 4586 856436218 856451121 14903
+H1L1 coincident duration is 13718
+H2L1 coincident duration is 11949
+H1H2 coincident duration is 11977
+Triple coincident duration is 11949
+}}}
+-----
+-----
+For event at Feb 26 2007 00:49:19 UTC
+
+GPS  time 856486173
+{{{
+H1 is in Science Mode: H1 2875 856472160 856527717 55557
+H2 is in Science Mode: H2 2308 856472054 856500906 28852
+L1 is in Science Mode: L1 4591 856474858 856487838 12980
+H1L1 coincident duration is 12980
+H2L1 coincident duration is 12980
+H1H2 coincident duration is 28746
+Triple coincident duration is 12980
+}}}
+-----
+-----
+For event at Feb 26 2007 05:08:16 UTC
+
+GPS  time 856501710
+{{{
+H1 is in Science Mode: H1 2875 856472160 856527717 55557
+H2 is not in Science Mode
+L1 is in Science Mode: L1 4595 856498707 856508992 10285
+H1L1 coincident duration is 10285
+}}}
+-----
+-----
+For event at Feb 26 2007 05:09:19 UTC
+
+GPS  time 856501773
+{{{
+H1 is in Science Mode: H1 2875 856472160 856527717 55557
+H2 is not in Science Mode
+L1 is in Science Mode: L1 4595 856498707 856508992 10285
+H1L1 coincident duration is 10285
+}}}
+-----
+-----
+For event at Feb 27 2007 10:08:23 UTC
+
+GPS  time 856606117
+{{{
+H1 is in Science Mode: H1 2878 856576041 856627242 51201
+H2 is in Science Mode: H2 2315 856591522 856613478 21956
+L1 is in Science Mode: L1 4608 856600276 856614650 14374
+H1L1 coincident duration is 14374
+H2L1 coincident duration is 13202
+H1H2 coincident duration is 21956
+Triple coincident duration is 13202
+}}}
+-----
+-----
+For event at Feb 27 2007 13:10:23 UTC
+
+GPS  time 856617037
+{{{
+H1 is in Science Mode: H1 2878 856576041 856627242 51201
+H2 is in Science Mode: H2 2316 856613943 856627243 13300
+L1 is not in Science Mode
+H1H2 coincident duration is 13299
+}}}
+-----
+-----
+For event at Feb 27 2007 13:17:04 UTC
+
+GPS  time 856617438
+{{{
+H1 is in Science Mode: H1 2878 856576041 856627242 51201
+H2 is in Science Mode: H2 2316 856613943 856627243 13300
+L1 is in Science Mode: L1 4610 856617262 856624064 6802
+H1L1 coincident duration is 6802
+H2L1 coincident duration is 6802
+H1H2 coincident duration is 13299
+Triple coincident duration is 6802
+}}}
+-----
+-----
+For event at Feb 27 2007 19:28:16 UTC
+
+GPS  time 856639710
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Feb 27 2007 19:28:58 UTC
+
+GPS  time 856639752
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Mar 01 2007 11:56:07 UTC
+
+GPS  time 856785381
+{{{
+H1 is in Science Mode: H1 2891 856781629 856804557 22928
+H2 is in Science Mode: H2 2327 856780717 856808423 27706
+L1 is in Science Mode: L1 4635 856782677 856793155 10478
+H1L1 coincident duration is 10478
+H2L1 coincident duration is 10478
+H1H2 coincident duration is 22928
+Triple coincident duration is 10478
+}}}
+-----
+-----
+For event at Mar 02 2007 02:14:20 UTC
+
+GPS  time 856836874
+{{{
+H1 is in Science Mode: H1 2896 856822471 856876855 54384
+H2 is in Science Mode: H2 2329 856828009 856876849 48840
+L1 is in Science Mode: L1 4646 856834841 856858495 23654
+H1L1 coincident duration is 23654
+H2L1 coincident duration is 23654
+H1H2 coincident duration is 48840
+Triple coincident duration is 23654
+}}}
+-----
+-----
+For event at Mar 04 2007 12:11:27 UTC
+
+GPS  time 857045501
+{{{
+H1 is in Science Mode: H1 2900 857022382 857094674 72292
+H2 is in Science Mode: H2 2337 857008616 857094674 86058
+L1 is in Science Mode: L1 4664 857032843 857048022 15179
+H1L1 coincident duration is 15179
+H2L1 coincident duration is 15179
+H1H2 coincident duration is 72292
+Triple coincident duration is 15179
+}}}
+-----
+-----
+For event at Mar 05 2007 13:38:49 UTC
+
+GPS  time 857137143
+{{{
+H1 is in Science Mode: H1 2901 857095537 857162985 67448
+H2 is in Science Mode: H2 2339 857133194 857162991 29797
+L1 is in Science Mode: L1 4677 857136919 857159636 22717
+H1L1 coincident duration is 22717
+H2L1 coincident duration is 22717
+H1H2 coincident duration is 29791
+Triple coincident duration is 22717
+}}}
+-----
+-----
+For event at Mar 06 2007 07:19:59 UTC
+
+GPS  time 857200813
+{{{
+H1 is in Science Mode: H1 2903 857170483 857232134 61651
+H2 is in Science Mode: H2 2341 857170484 857215111 44627
+L1 is not in Science Mode
+H1H2 coincident duration is 44627
+}}}
+-----
+-----
+For event at Mar 07 2007 15:40:14 UTC
+
+GPS  time 857317228
+{{{
+H1 is in Science Mode: H1 2909 857308974 857321203 12229
+H2 is in Science Mode: H2 2348 857308430 857334922 26492
+L1 is in Science Mode: L1 4689 857313349 857319697 6348
+H1L1 coincident duration is 6348
+H2L1 coincident duration is 6348
+H1H2 coincident duration is 12229
+Triple coincident duration is 6348
+}}}
+-----
+-----
+For event at Mar 07 2007 15:43:06 UTC
+
+GPS  time 857317400
+{{{
+H1 is in Science Mode: H1 2909 857308974 857321203 12229
+H2 is in Science Mode: H2 2348 857308430 857334922 26492
+L1 is in Science Mode: L1 4689 857313349 857319697 6348
+H1L1 coincident duration is 6348
+H2L1 coincident duration is 6348
+H1H2 coincident duration is 12229
+Triple coincident duration is 6348
+}}}
+-----
+-----
+For event at Mar 11 2007 01:31:54 UTC
+
+GPS  time 857611928
+{{{
+H1 is in Science Mode: H1 2939 857608688 857632802 24114
+H2 is in Science Mode: H2 2374 857597962 857632796 34834
+L1 is in Science Mode: L1 4719 857604759 857634987 30228
+H1L1 coincident duration is 24114
+H2L1 coincident duration is 28037
+H1H2 coincident duration is 24108
+Triple coincident duration is 24108
+}}}
+-----
+-----
+For event at Mar 11 2007 03:33:48 UTC
+
+GPS  time 857619242
+{{{
+H1 is in Science Mode: H1 2939 857608688 857632802 24114
+H2 is in Science Mode: H2 2374 857597962 857632796 34834
+L1 is in Science Mode: L1 4719 857604759 857634987 30228
+H1L1 coincident duration is 24114
+H2L1 coincident duration is 28037
+H1H2 coincident duration is 24108
+Triple coincident duration is 24108
+}}}
+-----
+-----
+For event at Mar 11 2007 09:49:01 UTC
+
+GPS  time 857641755
+{{{
+H1 is in Science Mode: H1 2941 857641734 857645450 3716
+H2 is not in Science Mode
+L1 is in Science Mode: L1 4721 857637006 857659391 22385
+H1L1 coincident duration is 3716
+}}}
+-----
+-----
+For event at Mar 16 2007 22:49:50 UTC
+
+GPS  time 858120604
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Mar 16 2007 22:50:22 UTC
+
+GPS  time 858120636
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Mar 17 2007 23:30:23 UTC
+
+GPS  time 858209437
+{{{
+H1 is in Science Mode: H1 2997 858208135 858217525 9390
+H2 is in Science Mode: H2 2415 858208068 858217011 8943
+L1 is not in Science Mode
+H1H2 coincident duration is 8876
+}}}
+-----
+-----
+For event at Mar 18 2007 02:28:14 UTC
+
+GPS  time 858220108
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Mar 18 2007 23:09:38 UTC
+
+GPS  time 858294592
+{{{
+H1 is in Science Mode: H1 3003 858293499 858376150 82651
+H2 is in Science Mode: H2 2419 858293293 858376376 83083
+L1 is in Science Mode: L1 4765 858276519 858321101 44582
+H1L1 coincident duration is 27602
+H2L1 coincident duration is 27808
+H1H2 coincident duration is 82651
+Triple coincident duration is 27602
+}}}
+-----
+-----
+For event at Mar 26 2007 00:24:07 UTC
+
+GPS  time 858903861
+{{{
+H1 is in Science Mode: H1 3040 858892719 858961268 68549
+H2 is in Science Mode: H2 2449 858892896 858951740 58844
+L1 is in Science Mode: L1 4814 858880538 858926298 45760
+H1L1 coincident duration is 33579
+H2L1 coincident duration is 33402
+H1H2 coincident duration is 58844
+Triple coincident duration is 33402
+}}}
+-----
+-----
+For event at Mar 26 2007 08:04:13 UTC
+
+GPS  time 858931467
+{{{
+H1 is in Science Mode: H1 3040 858892719 858961268 68549
+H2 is in Science Mode: H2 2449 858892896 858951740 58844
+L1 is in Science Mode: L1 4815 858927705 858941691 13986
+H1L1 coincident duration is 13986
+H2L1 coincident duration is 13986
+H1H2 coincident duration is 58844
+Triple coincident duration is 13986
+}}}
+-----
+-----
+For event at Mar 30 2007 16:14:38 UTC
+
+GPS  time 859306492
+{{{
+H1 is in Science Mode: H1 3070 859283146 859312560 29414
+H2 is in Science Mode: H2 2473 859285388 859312561 27173
+L1 is not in Science Mode
+H1H2 coincident duration is 27172
+}}}
+-----
+-----
+For event at Apr 01 2007 03:53:09 UTC
+
+GPS  time 859434803
+{{{
+H1 is in Science Mode: H1 3076 859423179 859475123 51944
+H2 is in Science Mode: H2 2478 859433231 859474818 41587
+L1 is in Science Mode: L1 4861 859409794 859441965 32171
+H1L1 coincident duration is 18786
+H2L1 coincident duration is 8734
+H1H2 coincident duration is 41587
+Triple coincident duration is 8734
+}}}
+-----
+-----
+For event at Apr 02 2007 14:54:11 UTC
+
+GPS  time 859560865
+{{{
+H1 is in Science Mode: H1 3081 859552230 859576021 23791
+H2 is in Science Mode: H2 2482 859552630 859576025 23395
+L1 is not in Science Mode
+H1H2 coincident duration is 23391
+}}}
+-----
+-----
+For event at Apr 03 2007 10:07:59 UTC
+
+GPS  time 859630093
+{{{
+H1 is in Science Mode: H1 3084 859608489 859647619 39130
+H2 is in Science Mode: H2 2485 859608304 859647621 39317
+L1 is in Science Mode: L1 4874 859620581 859633118 12537
+H1L1 coincident duration is 12537
+H2L1 coincident duration is 12537
+H1H2 coincident duration is 39130
+Triple coincident duration is 12537
+}}}
+-----
+-----
+For event at Apr 03 2007 11:37:10 UTC
+
+GPS  time 859635444
+{{{
+H1 is in Science Mode: H1 3084 859608489 859647619 39130
+H2 is in Science Mode: H2 2485 859608304 859647621 39317
+L1 is in Science Mode: L1 4875 859634182 859640749 6567
+H1L1 coincident duration is 6567
+H2L1 coincident duration is 6567
+H1H2 coincident duration is 39130
+Triple coincident duration is 6567
+}}}
+-----
+-----
+For event at Apr 29 2007 17:33:04 UTC
+
+GPS  time 861903198
+{{{
+H1 is in Science Mode: H1 3260 861891273 861919912 28639
+H2 is in Science Mode: H2 2619 861888328 861919913 31585
+L1 is in Science Mode: L1 5124 861891577 861904744 13167
+H1L1 coincident duration is 13167
+H2L1 coincident duration is 13167
+H1H2 coincident duration is 28639
+Triple coincident duration is 13167
+}}}
+-----
+-----
+For event at May 11 2007 10:53:04 UTC
+
+GPS  time 862915998
+{{{
+H1 is in Science Mode: H1 3306 862897536 862934377 36841
+H2 is in Science Mode: H2 2678 862897539 862942200 44661
+L1 is in Science Mode: L1 5232 862912782 862922610 9828
+H1L1 coincident duration is 9828
+H2L1 coincident duration is 9828
+H1H2 coincident duration is 36838
+Triple coincident duration is 9828
+}}}
+-----
+-----
+For SGR1806 -
+Total events 204
+0.98039% H1     only lock
+3.4314%   H2   only lock
+3.4314%     L1 only lock
+23.5294% H1H2   only lock
+4.4118% H1  L1 only lock
+2.451%   H2L1 only lock
+51.9608% H1H2L1      lock
+9.8039% No          lock
+>> >> tconvert MAR 25 2006 10:12:05
+tconvert MAR 25 2006 18:07:21
+tconvert MAR 25 2006 20:16:40
+tconvert MAR 25 2006 23:34:07
+tconvert MAR 26 2006 00:59:22
+tconvert MAR 26 2006 13:30:04
+tconvert MAR 26 2006 16:50:17
+tconvert MAR 28 2006 01:00:15
+tconvert MAR 28 2006 11:57:22
+tconvert MAR 28 2006 11:59:15
+tconvert MAR 28 2006 20:11:28
+tconvert MAR 28 2006 20:32:30
+tconvert MAR 28 2006 21:37:02
+tconvert MAR 28 2006 23:10:07
+tconvert MAR 29 2006 00:56:01
+tconvert MAR 29 2006 01:14:08
+tconvert MAR 29 2006 01:15:44
+tconvert MAR 29 2006 01:28:04
+tconvert MAR 29 2006 02:38:10
+tconvert MAR 29 2006 02:39:43
+tconvert MAR 29 2006 02:40:02
+tconvert MAR 29 2006 02:40:51
+tconvert MAR 29 2006 02:41:59
+tconvert MAR 29 2006 02:42:11
+tconvert MAR 29 2006 02:42:25
+tconvert MAR 29 2006 02:43:10
+tconvert MAR 29 2006 02:43:25
+tconvert MAR 29 2006 02:43:33
+tconvert MAR 29 2006 02:43:45
+tconvert MAR 29 2006 02:46:32
+tconvert MAR 29 2006 02:47:04
+tconvert MAR 29 2006 02:47:46
+tconvert MAR 29 2006 02:48:46
+tconvert MAR 29 2006 02:49:02
+tconvert MAR 29 2006 02:49:42
+tconvert MAR 29 2006 02:50:21
+tconvert MAR 29 2006 02:51:11
+tconvert MAR 29 2006 02:51:27
+tconvert MAR 29 2006 02:51:30
+tconvert MAR 29 2006 02:52:22
+tconvert MAR 29 2006 02:52:37
+tconvert MAR 29 2006 02:53:09
+tconvert MAR 29 2006 04:21:27
+tconvert MAR 29 2006 04:23:25
+tconvert MAR 29 2006 04:23:56
+tconvert MAR 29 2006 04:24:31
+tconvert MAR 29 2006 04:28:14
+tconvert MAR 29 2006 04:34:51
+tconvert MAR 29 2006 04:35:18
+tconvert MAR 29 2006 04:39:46
+tconvert MAR 29 2006 06:02:22
+tconvert MAR 29 2006 07:57:18
+tconvert MAR 29 2006 08:00:22
+tconvert MAR 29 2006 12:19:51
+tconvert APR 05 2006 00:23:48
+tconvert APR 14 2006 04:35:28
+tconvert JUN 10 2006 06:53:01
+tconvert NOV 26 2006 13:16:07
+For event at Mar 25 2006 10:12:05 UTC
+
+GPS  time 827316739
+{{{
+H1 is in Science Mode: H1 1191 827295526 827352976 57450
+H2 is in Science Mode: H2 693 827294856 827352962 58106
+L1 is not in Science Mode
+H1H2 coincident duration is 57436
+}}}
+-----
+-----
+For event at Mar 25 2006 18:07:21 UTC
+
+GPS  time 827345255
+{{{
+H1 is in Science Mode: H1 1191 827295526 827352976 57450
+H2 is in Science Mode: H2 693 827294856 827352962 58106
+L1 is in Science Mode: L1 1392 827339666 827346302 6636
+H1L1 coincident duration is 6636
+H2L1 coincident duration is 6636
+H1H2 coincident duration is 57436
+Triple coincident duration is 6636
+}}}
+-----
+-----
+For event at Mar 25 2006 20:16:40 UTC
+
+GPS  time 827353014
+{{{
+H1 is not in Science Mode
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Mar 25 2006 23:34:07 UTC
+
+GPS  time 827364861
+{{{
+H1 is in Science Mode: H1 1192 827357727 827409183 51456
+H2 is not in Science Mode
+L1 is in Science Mode: L1 1395 827362142 827365368 3226
+H1L1 coincident duration is 3226
+}}}
+-----
+-----
+For event at Mar 26 2006 00:59:22 UTC
+
+GPS  time 827369976
+{{{
+H1 is in Science Mode: H1 1192 827357727 827409183 51456
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Mar 26 2006 13:30:04 UTC
+
+GPS  time 827415018
+{{{
+H1 is in Science Mode: H1 1193 827409944 827428540 18596
+H2 is in Science Mode: H2 699 827387163 827462048 74885
+L1 is in Science Mode: L1 1399 827410919 827417624 6705
+H1L1 coincident duration is 6705
+H2L1 coincident duration is 6705
+H1H2 coincident duration is 18596
+Triple coincident duration is 6705
+}}}
+-----
+-----
+For event at Mar 26 2006 16:50:17 UTC
+
+GPS  time 827427031
+{{{
+H1 is in Science Mode: H1 1193 827409944 827428540 18596
+H2 is in Science Mode: H2 699 827387163 827462048 74885
+L1 is in Science Mode: L1 1401 827419896 827430293 10397
+H1L1 coincident duration is 8644
+H2L1 coincident duration is 10397
+H1H2 coincident duration is 18596
+Triple coincident duration is 8644
+}}}
+-----
+-----
+For event at Mar 28 2006 01:00:15 UTC
+
+GPS  time 827542829
+{{{
+H1 is in Science Mode: H1 1195 827520565 827555662 35097
+H2 is in Science Mode: H2 707 827538184 827588645 50461
+L1 is in Science Mode: L1 1424 827541129 827545997 4868
+H1L1 coincident duration is 4868
+H2L1 coincident duration is 4868
+H1H2 coincident duration is 17478
+Triple coincident duration is 4868
+}}}
+-----
+-----
+For event at Mar 28 2006 11:57:22 UTC
+
+GPS  time 827582256
+{{{
+H1 is in Science Mode: H1 1196 827556093 827588654 32561
+H2 is in Science Mode: H2 707 827538184 827588645 50461
+L1 is in Science Mode: L1 1426 827567111 827583273 16162
+H1L1 coincident duration is 16162
+H2L1 coincident duration is 16162
+H1H2 coincident duration is 32552
+Triple coincident duration is 16162
+}}}
+-----
+-----
+For event at Mar 28 2006 11:59:15 UTC
+
+GPS  time 827582369
+{{{
+H1 is in Science Mode: H1 1196 827556093 827588654 32561
+H2 is in Science Mode: H2 707 827538184 827588645 50461
+L1 is in Science Mode: L1 1426 827567111 827583273 16162
+H1L1 coincident duration is 16162
+H2L1 coincident duration is 16162
+H1H2 coincident duration is 32552
+Triple coincident duration is 16162
+}}}
+-----
+-----
+For event at Mar 28 2006 20:11:28 UTC
+
+GPS  time 827611902
+{{{
+H1 is in Science Mode: H1 1199 827611573 827617126 5553
+H2 is in Science Mode: H2 709 827611574 827618498 6924
+L1 is not in Science Mode
+H1H2 coincident duration is 5552
+}}}
+-----
+-----
+For event at Mar 28 2006 20:32:30 UTC
+
+GPS  time 827613164
+{{{
+H1 is in Science Mode: H1 1199 827611573 827617126 5553
+H2 is in Science Mode: H2 709 827611574 827618498 6924
+L1 is not in Science Mode
+H1H2 coincident duration is 5552
+}}}
+-----
+-----
+For event at Mar 28 2006 21:37:02 UTC
+
+GPS  time 827617036
+{{{
+H1 is in Science Mode: H1 1199 827611573 827617126 5553
+H2 is in Science Mode: H2 709 827611574 827618498 6924
+L1 is not in Science Mode
+H1H2 coincident duration is 5552
+}}}
+-----
+-----
+For event at Mar 28 2006 23:10:07 UTC
+
+GPS  time 827622621
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is not in Science Mode
+H1H2 coincident duration is 66730
+}}}
+-----
+-----
+For event at Mar 29 2006 00:56:01 UTC
+
+GPS  time 827628975
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 01:14:08 UTC
+
+GPS  time 827630062
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 01:15:44 UTC
+
+GPS  time 827630158
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 01:28:04 UTC
+
+GPS  time 827630898
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:38:10 UTC
+
+GPS  time 827635104
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:39:43 UTC
+
+GPS  time 827635197
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:40:02 UTC
+
+GPS  time 827635216
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:40:51 UTC
+
+GPS  time 827635265
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:41:59 UTC
+
+GPS  time 827635333
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:42:11 UTC
+
+GPS  time 827635345
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:42:25 UTC
+
+GPS  time 827635359
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:43:10 UTC
+
+GPS  time 827635404
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:43:25 UTC
+
+GPS  time 827635419
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:43:33 UTC
+
+GPS  time 827635427
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:43:45 UTC
+
+GPS  time 827635439
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:46:32 UTC
+
+GPS  time 827635606
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:47:04 UTC
+
+GPS  time 827635638
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:47:46 UTC
+
+GPS  time 827635680
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:48:46 UTC
+
+GPS  time 827635740
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:49:02 UTC
+
+GPS  time 827635756
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:49:42 UTC
+
+GPS  time 827635796
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:50:21 UTC
+
+GPS  time 827635835
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:51:11 UTC
+
+GPS  time 827635885
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:51:27 UTC
+
+GPS  time 827635901
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:51:30 UTC
+
+GPS  time 827635904
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:52:22 UTC
+
+GPS  time 827635956
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:52:37 UTC
+
+GPS  time 827635971
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 02:53:09 UTC
+
+GPS  time 827636003
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 04:21:27 UTC
+
+GPS  time 827641301
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 04:23:25 UTC
+
+GPS  time 827641419
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 04:23:56 UTC
+
+GPS  time 827641450
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 04:24:31 UTC
+
+GPS  time 827641485
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 04:28:14 UTC
+
+GPS  time 827641708
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 04:34:51 UTC
+
+GPS  time 827642105
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 04:35:18 UTC
+
+GPS  time 827642132
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 04:39:46 UTC
+
+GPS  time 827642400
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1445 827627636 827646131 18495
+H1L1 coincident duration is 18495
+H2L1 coincident duration is 18495
+H1H2 coincident duration is 66730
+Triple coincident duration is 18495
+}}}
+-----
+-----
+For event at Mar 29 2006 06:02:22 UTC
+
+GPS  time 827647356
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is not in Science Mode
+H1H2 coincident duration is 66730
+}}}
+-----
+-----
+For event at Mar 29 2006 07:57:18 UTC
+
+GPS  time 827654252
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is not in Science Mode
+H1H2 coincident duration is 66730
+}}}
+-----
+-----
+For event at Mar 29 2006 08:00:22 UTC
+
+GPS  time 827654436
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is not in Science Mode
+H1H2 coincident duration is 66730
+}}}
+-----
+-----
+For event at Mar 29 2006 12:19:51 UTC
+
+GPS  time 827670005
+{{{
+H1 is in Science Mode: H1 1201 827620358 827687675 67317
+H2 is in Science Mode: H2 711 827620929 827687659 66730
+L1 is in Science Mode: L1 1450 827669451 827670689 1238
+H1L1 coincident duration is 1238
+H2L1 coincident duration is 1238
+H1H2 coincident duration is 66730
+Triple coincident duration is 1238
+}}}
+-----
+-----
+For event at Apr 05 2006 00:23:48 UTC
+
+GPS  time 828231842
+{{{
+H1 is in Science Mode: H1 1221 828229005 828246218 17213
+H2 is in Science Mode: H2 765 828230102 828233686 3584
+L1 is not in Science Mode
+H1H2 coincident duration is 3584
+}}}
+-----
+-----
+For event at Apr 14 2006 04:35:28 UTC
+
+GPS  time 829024542
+{{{
+H1 is not in Science Mode
+H2 is in Science Mode: H2 849 829024494 829059574 35080
+L1 is not in Science Mode
+}}}
+-----
+-----
+For event at Jun 10 2006 06:53:01 UTC
+
+GPS  time 833957595
+{{{
+H1 is in Science Mode: H1 1550 833956667 833964686 8019
+H2 is in Science Mode: H2 1283 833955326 833957680 2354
+L1 is not in Science Mode
+H1H2 coincident duration is 1013
+}}}
+-----
+-----
+For event at Nov 26 2006 13:16:07 UTC
+
+GPS  time 848582181
+{{{
+H1 is in Science Mode: H1 2510 848531037 848630010 98973
+H2 is not in Science Mode
+L1 is not in Science Mode
+}}}
+-----
+-----
+For SGR1900 -
+Total events 58
+3.4483% H1     only lock
+1.7241%   H2   only lock
+0%     L1 only lock
+17.2414% H1H2   only lock
+1.7241% H1  L1 only lock
+0%   H2L1 only lock
+74.1379% H1H2L1      lock
+1.7241% No          lock
+>> 

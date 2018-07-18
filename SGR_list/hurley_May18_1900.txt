@@ -1,0 +1,143 @@
+                  ****************************************************************************************************
+                  *                             MASTER BURST LIST COMPILED 11/ 7/ 7                                  *
+                  *              THE FOLLOWING TYPES OF EVENTS ARE LISTED                                            *
+                  *              -SGR1900+14                                                                         *
+                  *              THE FOLLOWING SPACECRAFT DATA HAVE BEEN EXAMINED                                    *
+                  *               1.ULY -ULYSSES                                                                     *
+                  *               2.BAT -BATSE/GRO                                                                   *
+                  *               3.OSS -OSSE/GRO                                                                    *
+                  *               4.COM -COMPTEL/GRO                                                                 *
+                  *               5.EGR -EGRET/GRO                                                                   *
+                  *               6.PVO -PIONEER VENUS ORBITER                                                       *
+                  *               7.GIN -GINGA - LANL EXPERIMENT                                                     *
+                  *               8.DMS -DEFENSE METEOR. SAT. PROGRAM                                                *
+                  *               9.WAT -WATCH/GRANAT                                                                *
+                  *              10.SIG -SIGMA/GRANAT                                                                *
+                  *              11.PHE -PHEBUS/GRANAT                                                               *
+                  *              12.COR -CORONAS -USSR MISSION - MAZETS                                              *
+                  *              13.YOH -YOHKOH                                                                      *
+                  *              14.EUR -WATCH/EURECA                                                                *
+                  *              15.MO  -MARS OBSERVER                                                               *
+                  *              16.TGR -TGRS/WIND                                                                   *
+                  *              17.KON -KONUS/WIND                                                                  *
+                  *              18.SAX -ITALIAN X-RAY ASTRONOMY SAT.                                                *
+                  *              19.HET -HETE                                                                        *
+                  *              20.SRS -SROSS C-2                                                                   *
+                  *              21.NEA -NEAR                                                                        *
+                  *              22.XTE -RXTE ASM                                                                    *
+                  *              23.HES -RHESSI                                                                      *
+                  *              24.INT -INTEGRAL SPI-ACS, IBIS, JEM-X                                               *
+                  *              25.SWI -SWIFT                                                                       *
+                  *              26.MES -MESSENGER                                                                   *
+                  *              27.SUZ -SUZAKU                                                                      *
+                  *              EXPLANATION OF OTHER SYMBOLS USED                                                   *
+                  *              NSAT-REFERS TO SPACECRAFT FOR WHICH EVENT TIME IS GIVEN                             *
+                  *              ECW, VCW, MCW, AND UCW ARE THE EARTH, VENUS, MARS,                                  *
+                  *              AND ULYSSES CROSSING WINDOWS IN SECONDS                                             *
+                  *              EVENT IDENT.-EVENTS ARE CATEGORIZED AS CONFIRMED                                    *
+                  *              OR UNCONFIRMED COSMIC OR SOLAR, BLANK (CANDIDATE)                                   *
+                  *              TRIGGERED BY COMMAND, STATISTICAL FLUCTUATION, PARTICLE-INDUCED                     *
+                  *              CONFIRMED OR UNCONFIRMED SOFT GAMMA REPEATER                                        *
+                  *              CONFIRMED OR UNCONFIRMED EVENT FROM SGR1806-20, SGR1900+14, OR SGR1627-41           *
+                  *              SYMBOLS IN SPACECRAFT COLUMNS (ULY,BAT,OSS,ETC) ARE  AS FOLLOWS                     *
+                  *              YES MEANS THAT THE EXPERIMENT TRIGGERED ON THE EVENT                                *
+                  *              BLANK MEANS UNKNOWN - DATA NOT EXAMINED                                             *
+                  *              N/O  MEANS EVENT NOT OBSERVABLE WITH THIS SPACECRAFT                                *
+                  *              RI MEANS RATE INCREASE                                                              *
+                  *              NO MEANS NO TRIGGER OR RATE INCREASE, BUT THE EVENT WAS OBSERVABLE                  *
+                  *              COMMENTS REFER TO PRECEEDING LINE                                                   *
+                  *              THIS LIST IS FOR COINCIDENCES BETWEEN SPACECRAFT AS FOLLOWS                         *
+                  * ANY -YES OR  ANY -RI                                                                             *
+                  *              START DATE IS 2005  2 22   STOP DATE IS 2007  5 18                                  *
+                  ****************************************************************************************************
+ 
+      DATE     DOY  TIME    T,SEC  NSAT ECW  VCW  MCW  UCW  EVENT IDENT.  ULY BAT OSS COM EGR PVO GIN DMS WAT SIG PHE COR YOH EUR MO  TGR KON SAX HET SRS NEA XTE HES INT SWI MES SUZ 
+   1.25 MAR 06  84 10:12:05 36725  25     0  337  786 1714 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O N/O         N/O     N/O N/O     NO      YES         
+   2.25 MAR 06  84 18:07:21 65241  25     0  337  786 1714 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O NO          N/O NO  N/O N/O     NO      YES         
+   3.25 MAR 06  84 20:16:40 73000  25     0  337  786 1714 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O N/O         N/O     N/O N/O     NO      YES         
+COMMENT.....SWIFT 202746                                                                                                            
+   4.25 MAR 06  84 23:34:07 84847  25     0  337  786 1714 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O NO          N/O     N/O N/O     NO      YES         
+   5.26 MAR 06  85 00:59:22  3562  25     0  341  791 1715 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O N/O         N/O NO  N/O N/O     NO      YES         
+   6.26 MAR 06  85 13:30:04 48604  25     0  341  791 1715 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O N/O         N/O     N/O N/O     NO      YES         
+   7.26 MAR 06  85 16:50:17 60617  25     0  341  791 1715 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O NO          N/O     N/O N/O     NO      YES         
+   8.28 MAR 06  87 01:00:15  3615  25     0  349  801 1717 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O N/O         N/O NO  N/O N/O     NO      YES         
+   9.28 MAR 06  87 11:57:22 43042  25     0  349  801 1717 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  10.28 MAR 06  87 11:59:15 43155  25     0  349  801 1717 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O NO  N/O N/O     NO      YES         
+COMMENT.....SWIFT 203040                                                                                                            
+  11.28 MAR 06  87 20:11:28 72688  25     0  349  801 1717 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  12.28 MAR 06  87 20:32:30 73950  25     0  349  801 1717 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  13.28 MAR 06  87 21:37:02 77822  25     0  349  801 1717 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  14.28 MAR 06  87 23:10:07 83407  25     0  349  801 1717 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  15.29 MAR 06  88 00:56:01  3361  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  16.29 MAR 06  88 01:14:08  4448  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  17.29 MAR 06  88 01:15:44  4544  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  18.29 MAR 06  88 01:28:04  5284  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O NO      YES N/O N/O N/O N/O     NO      YES         
+COMMENT.....SWIFT 203109                                                                                                            
+  19.29 MAR 06  88 02:38:10  9490  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+COMMENT.....SWARM OF BURSTS                                                                                                         
+  20.29 MAR 06  88 02:39:43  9583  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  21.29 MAR 06  88 02:40:02  9602  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  22.29 MAR 06  88 02:40:51  9651  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  23.29 MAR 06  88 02:41:59  9719  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  24.29 MAR 06  88 02:42:11  9731  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  25.29 MAR 06  88 02:42:25  9745  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  26.29 MAR 06  88 02:43:10  9790  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  27.29 MAR 06  88 02:43:25  9805  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  28.29 MAR 06  88 02:43:33  9813  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  29.29 MAR 06  88 02:43:45  9825  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  30.29 MAR 06  88 02:46:32  9992  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  31.29 MAR 06  88 02:47:04 10024  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  32.29 MAR 06  88 02:47:46 10066  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  33.29 MAR 06  88 02:48:46 10126  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  34.29 MAR 06  88 02:49:02 10142  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  35.29 MAR 06  88 02:49:42 10182  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  36.29 MAR 06  88 02:50:21 10221  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  37.29 MAR 06  88 02:51:11 10271  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  38.29 MAR 06  88 02:51:27 10287  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  39.29 MAR 06  88 02:51:30 10290  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  40.29 MAR 06  88 02:52:22 10342  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  41.29 MAR 06  88 02:52:37 10357  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  42.29 MAR 06  88 02:53:09 10389  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O NO  N/O N/O     NO      YES         
+  43.29 MAR 06  88 04:21:27 15687  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  44.29 MAR 06  88 04:23:25 15805  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  45.29 MAR 06  88 04:23:56 15836  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  46.29 MAR 06  88 04:24:31 15871  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  47.29 MAR 06  88 04:28:14 16094  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  48.29 MAR 06  88 04:34:51 16491  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  49.29 MAR 06  88 04:35:18 16518  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  50.29 MAR 06  88 04:39:46 16786  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  51.29 MAR 06  88 06:02:22 21742  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  52.29 MAR 06  88 07:57:18 28638  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+      DATE     DOY  TIME    T,SEC  NSAT ECW  VCW  MCW  UCW  EVENT IDENT.  ULY BAT OSS COM EGR PVO GIN DMS WAT SIG PHE COR YOH EUR MO  TGR KON SAX HET SRS NEA XTE HES INT SWI MES SUZ 
+  53.29 MAR 06  88 08:00:22 28822  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  54.29 MAR 06  88 12:19:51 44391  25     0  353  806 1719 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O             YES         
+  55.05 APR 06  95 00:23:48  1428  25     0  380  839 1730 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O     NO      YES         
+COMMENT.....SWIFT 11314231                                                                                                          
+  56.14 APR 06 104 04:35:28 16528  25     0  415  880 1752 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O N/O N/O N/O     NO      YES         
+COMMENT.....SWIFT 205164                                                                                                            
+  57.10 JUN 06 161 06:53:01 24781  25     0  622 1109 1959 SGR1900+14     N/O N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O             N/O     N/O N/O     NO      YES         
+COMMENT.....SWIFT 214277                                                                                                            
+  58.26 NOV 06 330 13:16:07 47767  25     0  844 1256 1601 SGR1900+14     NO  N/O N/O N/O N/O N/O N/O     N/O N/O N/O N/O     N/O NO          N/O N/O N/O N/O     NO      YES N/O     
+ 
+SUMMARY
+EVENT TYPE                       NUMBER OBSERVED BY N SPACECRAFT
+                                  N=1    2    3    4    5    6    7    8    9    10   11   12   13   14   15   16
+   0 EVENTS OF UNKNOWN ORIGIN       0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 CONFIRMED COSMIC EVENTS        0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 UNCONFIRMED COSMIC EVENTS      0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 SOLAR EVENTS                   0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 UNCONFIRMED SOLAR EVENTS       0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 PARTICLE EVENTS                0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 TRIGGERS BY COMMAND            0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 STATISTICAL FLUCTUATIONS       0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 SOFT GAMMA REPEATERS           0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 UNCONF. SOFT GAMMA REPEATERS   0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 SGR1806-20                     0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 UNCONF. EVENTS FROM SGR1806    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+  58 SGR1900+14                    57    1    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 UNCONF. EVENTS FROM SGR1900    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 SGR1627-41                     0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+   0 UNCONF. EVENTS FROM SGR1627    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0 
+
+ 
+
